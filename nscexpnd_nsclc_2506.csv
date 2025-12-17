@@ -1,0 +1,1351 @@
+surgerydate,groupstage,ispcr,patientid,isnsclc,advanceddiagnosisdate,metastaticdiagnosisdate,nsclcdiagnosisdate,ismetastatic,isadvanced,smokingstatus,hassurgery,histology
+,Stage IVB,,G496F9G6DFG23,true,2022-10-22,2022-11-13,2022-10-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2177D1::DG1E,true,2011-06-15,2011-06-24,2011-06-08,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G23324B16297B,true,,,2013-09-20,false,false,History of smoking,false,Squamous cell carcinoma
+2013-11-07,Stage IIIA,True,G227FDC93E654,true,,,2013-08-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+2013-04-09,Stage IIB,False,G24C:63G27686,true,2013-11-02,2013-10-11,2013-03-27,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G385EEC4EF993,true,2020-04-13,,2020-04-17,false,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G44GC244D519B,true,2011-05-29,2011-05-21,2011-05-21,true,true,History of smoking,,Squamous cell carcinoma
+2013-04-06,Stage IA,False,G19GDC129D136,true,2016-07-09,2016-05-25,2013-05-04,true,true,History of smoking,true,Non-squamous cell carcinoma
+2023-05-01,Stage IA,False,G553823E31371,true,,,2023-03-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+2022-04-14,Stage IB,False,G17836219594E,true,,,2022-06-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G39GB9B7D:9:C,true,2015-10-03,2015-10-07,2015-08-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G262FC43B61CF,true,2017-09-18,2017-08-26,2017-09-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G35146C5E4B61,true,,,2014-08-06,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G22991BF1539C,true,2017-05-13,2017-04-20,2017-05-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G15F23FC1G645,true,,,2022-12-15,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IVB,,G54B7:9:4B62G,true,2023-12-12,2023-12-28,2024-01-06,true,true,No history of smoking,,NSCLC histology NOS
+,Stage IV,,G27:46:6B7F9E,true,2019-10-13,2019-11-22,2019-10-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G2EEC5EF55C9E,true,,,2011-12-21,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage III,False,G23C:2E8663D9,true,,,2018-06-06,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G14D11742B6GF,true,,,2016-04-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+2014-01-04,Stage IIIB,False,G4G1G16FE1GF8,true,2013-12-06,,2014-01-04,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G4:97143B7:G3,true,,,2024-04-03,false,false,History of smoking,false,Squamous cell carcinoma
+2023-07-04,Stage IB,False,G4F81453E11B7,true,,,2023-05-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+2024-05-26,Stage IIB,False,G535G:C261F1E,true,,,2024-05-05,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G2528GE16D41:,true,2015-05-04,2015-04-26,2015-06-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G23BG:64C7DFE,true,2021-03-16,2021-03-31,2021-03-24,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-01-28,Stage IIA,False,G5995:57EB51E,true,,,2011-11-16,false,false,History of smoking,true,Non-squamous cell carcinoma
+2024-02-15,Stage IA,False,G2644GEG2:273,true,,,2023-12-22,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G521CE6B291GD,true,,,2019-02-28,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G55C5E563EFC3,true,2012-03-15,2012-03-06,2012-02-08,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G46E218G4252C,true,2016-05-05,2016-04-17,2016-05-04,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-04-06,Stage IIA,False,G2F1E5F6F6:E1,true,,,2020-02-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+2016-03-02,Stage IIIA,False,G55D6D2EG3F64,true,,,2016-01-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+2013-04-18,Stage IB,False,G43G8999G6C7E,true,,,2013-04-19,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G14EB8:1:D44G,true,,,2019-06-08,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G1DD638:C:184,true,2022-05-20,,2022-03-10,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVB,,G2339E2EC4B:E,true,2024-06-29,2024-08-05,2024-06-29,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-04-24,Stage I,False,G2388951:5BGF,true,2016-04-13,2016-04-16,2014-04-30,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G48796B29723B,true,2013-07-01,,2013-05-24,false,true,History of smoking,false,Squamous cell carcinoma
+2018-05-14,Stage IA,False,G164318F5DD25,true,,,2018-06-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage I,False,G2395EFDB8757,true,,,2015-07-01,false,false,History of smoking,false,Squamous cell carcinoma
+2024-01-02,Stage IA,False,G23G:E262183G,true,,,2023-12-04,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G1FFE6DDFB4DE,true,2018-07-27,2018-07-29,2018-06-13,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G387E3B7EB414,true,2014-11-26,2014-11-04,2014-10-27,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4656G51E4EG7,true,2018-10-07,2018-09-26,2018-10-10,true,true,History of smoking,,Squamous cell carcinoma
+2023-09-10,Stage IIB,False,G1EFD1E1::C6E,true,,,2023-08-02,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G1FD696E::692,true,2024-05-10,2024-04-03,2024-04-25,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1BF717:GF641,true,,,2013-07-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G19D7FE451CEF,true,2013-05-13,2013-05-21,2013-04-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G3GEDGC4F2:EB,true,,,2020-11-18,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G2FBD8D253CE3,true,,,2021-05-25,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G2::9G57327G:,true,,,2014-07-22,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G4C2EB36BG3:G,true,2017-12-12,,2015-11-07,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G56BF:5789F3D,true,2014-12-05,2014-10-31,2014-10-24,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-01-08,Stage IIA,False,G2B657FB537E1,true,,,2012-01-04,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G32BDE434DG19,true,,,2023-09-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G149B7C41:236,true,2022-02-08,2022-03-10,2013-12-08,true,true,History of smoking,false,Non-squamous cell carcinoma
+2024-05-05,Stage IA,False,G26EDF2:6:755,true,,,2024-05-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage I,False,G1C95D37E1CF6,true,,,2023-11-09,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G3:D1D2EG5C21,true,2013-04-04,2014-09-13,2013-04-26,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2G47CG7D:EEG,true,2018-05-16,2018-04-30,2018-05-15,true,true,History of smoking,,Non-squamous cell carcinoma
+2013-02-22,Stage IA,False,G2BE13CEFB231,true,,,2012-10-06,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G269E92F97C56,true,2015-05-31,2015-05-06,2015-06-15,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-01-13,Stage IB,False,G15875498G:F4,true,2021-01-25,2021-01-24,2020-01-08,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IVB,,G1DCEG91EG51E,true,2024-04-15,2024-05-19,2024-05-19,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-02-09,Stage IA,False,G26G426GG3C8F,true,2017-01-24,2017-01-27,2015-01-30,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1BG11DG4E257,true,2020-06-21,2020-07-02,2020-05-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G47CB2FC5BC52,true,2014-12-20,2014-12-24,2014-11-23,true,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G535BE993E221,true,2023-04-30,2023-06-01,2023-05-13,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-10-30,Stage IA,False,G12F338FDGBD4,true,,,2019-12-10,false,false,History of smoking,true,Non-squamous cell carcinoma
+2012-05-06,Stage IA,False,G1B:584419G11,true,,,2012-03-10,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-01-18,Stage IIIA,False,G37C2D6679F35,true,,,2018-12-17,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G1CG3CFB2DF79,true,2022-12-13,2023-01-09,2022-11-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G19937F58E541,true,2012-11-19,2012-11-17,2012-12-25,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G34927D694398,true,,,2018-03-07,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G119F2D14F4C3,true,,,2016-06-05,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G3124B666:88D,true,,,2023-02-04,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G28EFBDGDC712,true,2018-05-20,2018-06-24,2018-05-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G253:45FB2F1:,true,2016-12-12,2016-12-22,2016-12-13,true,true,History of smoking,,Non-squamous cell carcinoma
+2013-06-20,Stage IB,False,G3C7CG3GB1149,true,,,2013-06-07,false,false,History of smoking,true,Squamous cell carcinoma
+2020-03-24,Stage IIIB,False,G439:9677E4:D,true,2020-02-26,2021-01-15,2020-03-15,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G139F19BB454C,true,2022-07-22,,2022-06-27,false,true,History of smoking,false,Squamous cell carcinoma
+2019-03-12,Stage IIA,False,G16227785C51C,true,2019-08-07,2019-07-27,2019-03-22,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G1D2821G451G:,true,2023-12-05,2023-12-05,2023-11-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1E71G:B6G198,true,2024-05-20,2024-06-11,2024-05-31,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1554C84G3CD2,true,2023-06-25,2023-05-28,2023-04-29,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-09-22,Stage IA,False,G2E8B47716G:D,true,,,2020-09-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G3BE152FFEBG3,true,2020-03-19,2020-03-20,2020-04-09,true,true,History of smoking,,Squamous cell carcinoma
+,Stage I,False,G1:E16E8E4F67,true,,,2018-09-28,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G3C1646C::C1G,true,,,2016-03-29,false,false,History of smoking,false,NSCLC histology NOS
+2016-04-14,Stage IA,False,G483C731947::,true,2020-12-24,2020-11-19,2016-04-13,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G16FBGC:47E65,true,,,2023-06-08,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G18DFE96F9:2G,true,2024-03-07,2024-05-01,2024-05-01,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-10-18,Stage IIA,False,G242552:9GGC8,true,2012-11-27,2013-01-10,2012-10-06,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G45388C4DCEFB,true,2012-04-30,2012-05-05,2012-04-03,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G26534:GEG3:6,true,2014-02-12,2020-09-09,2014-03-15,true,true,History of smoking,false,Squamous cell carcinoma
+2013-10-18,Stage IIB,False,G234GF79B62E6,true,,,2013-08-23,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1969F536B2DD,true,2011-05-08,2011-05-31,2011-05-05,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-08-10,Stage IA,False,G4DE5G451:BF6,true,,,2023-08-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G219998331789,true,2019-12-05,,2019-12-23,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G3G2:1CGCB76E,true,2020-03-09,2020-02-08,2020-03-18,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G356E75GB3883,true,2017-05-27,2017-06-23,2017-05-24,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4B6GB9CB3CD4,true,2012-11-17,2012-11-30,2012-11-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G46:87GF7FGC9,true,2014-11-02,2014-11-03,2014-10-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G27471:8B6217,true,2016-07-02,2016-06-03,2016-05-07,true,true,History of smoking,false,Squamous cell carcinoma
+2016-11-28,Stage IA,False,G14764:E91E3D,true,,,2016-12-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIC,False,G1532797B869C,true,2022-11-25,2023-07-01,2022-10-20,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G4D37C7F7F5B2,true,2024-06-15,2024-06-03,2024-06-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G134129227B1G,true,2012-05-10,2012-04-07,2012-05-12,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-12-20,Stage IIA,False,G38FEB9GG:4:7,true,,,2019-12-30,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G266388B8D5BD,true,2017-12-26,2017-12-03,2017-11-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1182:BGE1D9F,true,2017-04-13,2017-05-04,2017-05-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1:5D4488:G45,true,2018-07-05,2018-05-22,2018-05-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G15BG93D3B6E7,true,2020-10-21,2020-11-09,2020-11-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1978F5FFE:43,true,2014-05-06,2014-05-17,2014-05-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIA,False,G2364B7D68FE2,true,,,2015-06-16,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1E772CFC2E2E,true,2014-10-18,2014-10-13,2014-09-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G125C8D8E:C:C,true,2012-12-14,2012-12-21,2013-01-04,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-03-27,Stage IA,False,G18F53:5E9D34,true,,,2019-04-21,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage III,False,G472C99B8G373,true,,,2018-05-01,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3G3424ECF92G,true,2025-02-03,2025-03-03,2025-01-28,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-04-19,Stage IA,False,G23D83GED7F66,true,,,2021-05-04,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G257D9:2573CF,true,2024-07-12,,2024-07-18,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G22B:E513F46B,true,2017-03-15,2017-04-17,2017-02-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1:96BBBF7269,true,2022-04-01,2022-03-11,2022-02-27,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage II,False,G52171F692E31,true,,,2012-04-15,false,false,History of smoking,false,Squamous cell carcinoma
+2017-04-17,Stage IIIA,False,G569BCGF4:817,true,2017-12-10,2017-12-28,2017-05-01,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIA,False,G1B56G7791723,true,,,2021-05-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G4G84CDE8:3F:,true,2022-03-11,,2022-04-06,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G254712FF2998,true,2013-05-18,2013-06-04,2013-06-10,true,true,No history of smoking,,Non-squamous cell carcinoma
+2014-10-25,Stage IB,False,G52E6DD6B7548,true,2016-11-30,,2014-11-28,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G1651E65B5E88,true,2017-11-15,2017-11-26,2017-12-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G415G5EGE4D54,true,2021-03-05,2021-03-15,2021-04-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G2799FBE7D4B8,true,,,2015-05-26,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G2CC42E:::G72,true,,,2018-05-03,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G12786B9C7G6D,true,2018-06-08,2018-07-20,2018-06-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G271BC57C558E,true,2014-11-08,2014-10-16,2014-10-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G1EC14EC2:22:,true,2023-08-05,,2023-07-31,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3GF73E51BG1F,true,2015-10-23,2015-10-26,2015-11-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1855FC4154:6,true,2023-07-26,2023-08-14,2023-07-06,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G4F86FC34E786,true,2020-10-24,2020-09-15,2020-09-24,true,true,History of smoking,,Squamous cell carcinoma
+2016-08-11,Stage IIB,False,G18492:8FGCDB,true,,,2016-08-02,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2669118E257F,true,2017-02-26,2017-02-17,2017-02-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2013-07-24,Stage IA,False,G161297FC6EC1,true,2014-07-29,,2013-07-18,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G2D875396G7EB,true,2023-06-28,2023-06-22,2023-07-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G57:B54354348,true,2025-03-21,2025-03-06,2025-02-15,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G33E55:63F87C,true,2024-03-09,2024-02-13,2024-02-17,true,true,No history of smoking,,Non-squamous cell carcinoma
+2013-10-11,Stage IIA,False,G41247433D99C,true,,,2013-10-29,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G1CC5BCCG41B4,true,2019-03-18,2019-05-08,2019-04-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1C5C8D42B3::,true,2020-12-02,2020-11-24,2017-12-03,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G1GC97BGC25B3,true,2019-11-18,2020-01-01,2017-06-27,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4G53233CD43C,true,2024-05-05,2024-04-20,2024-05-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3EG8DGC9B:1E,true,2012-08-04,2012-09-04,2012-08-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G5:D955C88D97,true,2019-04-05,2021-11-04,2019-03-30,true,true,History of smoking,false,Non-squamous cell carcinoma
+2021-08-08,Stage IA,False,G293697D6229C,true,,,2021-02-21,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G25:745EF96G6,true,,,2023-07-20,false,false,History of smoking,false,Squamous cell carcinoma
+2024-04-20,Stage IB,False,G4DF48234F:F1,true,,,2024-04-07,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage I,False,G128F49G19C6D,true,2015-04-13,2015-02-14,2014-07-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+2016-12-30,Stage IA,False,G1F482136BDE5,true,,,2016-12-13,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2018-12-01,Stage IIA,False,G1465C:GCDB2G,true,,,2018-11-28,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G22C1EF7CB9B6,true,,,2013-02-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+2021-08-13,Stage IA,False,G1E4B7FED9775,true,,,2021-06-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G42D:4D9G6157,true,,,2023-03-23,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G241B796231DD,true,2012-04-09,2012-03-14,2011-08-26,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G17EC67:48631,true,2024-01-20,2024-01-18,2023-12-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G1897773:BE4G,true,2019-06-20,2019-06-20,2019-05-15,true,true,History of smoking,,Squamous cell carcinoma
+,Stage III,False,G27979C61F9BD,true,,,2014-08-01,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G449FD416E3D5,true,2022-05-13,2022-06-01,2022-06-04,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G3EC2153F:341,true,2020-05-27,2020-05-15,2020-05-05,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1GE52D9E9C7B,true,2015-06-04,2015-06-01,2015-04-26,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G16:GC1C87FG:,true,2016-11-09,2016-10-10,2016-10-20,true,true,History of smoking,,NSCLC histology NOS
+2021-02-15,Stage IA,False,G481:B34FB6:C,true,,,2020-11-25,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage III,False,G27:4356GC7E5,true,2020-01-16,2024-02-03,2019-12-04,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G3419F1B75FG6,true,2020-01-20,2019-12-31,2020-01-14,true,true,History of smoking,,Non-squamous cell carcinoma
+2011-11-01,Stage IB,False,G19BD1725:45F,true,2013-05-15,2013-06-08,2011-10-13,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G161FDD242EB9,true,2011-08-30,2011-08-26,2011-08-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G493:D:293BE2,true,2012-10-24,2012-10-11,2012-10-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage II,False,G32G785298FE:,true,,,2013-04-09,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G266B51F6:616,true,,,2018-05-06,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G5722GECG4G16,true,2023-04-30,2023-03-31,2023-03-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G18B63F1G3977,true,2017-10-07,2017-10-09,2017-11-07,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G2D67468:992D,true,2016-03-03,2016-03-15,2016-03-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G13FC564CF8GF,true,2023-04-02,2023-04-26,2023-05-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G13C2:FDBFBC2,true,2024-02-09,2024-01-26,2024-01-27,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-05-28,Stage IIB,False,G57G45B:D1F17,true,2017-04-27,2017-03-24,2016-06-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1E1BE62:E61G,true,2019-11-30,2019-11-26,2019-12-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G3GE686D11C25,true,2015-02-07,2015-04-30,2015-03-23,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G1GEF44EBD419,true,,,2023-09-09,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G45C13CFDDB84,true,2014-10-23,2014-09-11,2014-10-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1G7:9D7EC1EC,true,2018-08-22,2018-07-28,2018-08-15,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-06-18,Stage IIB,False,G2D284G82G31F,true,,,2024-03-26,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G39G:1GDD6BB5,true,2016-01-30,2016-01-09,2016-01-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1185:32426FB,true,2015-01-11,,2013-12-19,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1188466C5727,true,2014-03-03,2014-02-27,2014-04-02,true,true,No history of smoking,,Non-squamous cell carcinoma
+2020-12-05,Group stage is not reported,False,G3D2E6ED168DB,true,,,2020-11-30,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G11G8BG6E719B,true,2021-04-09,2021-04-18,2021-03-11,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-01-02,Stage IA,False,G3:G31857DB4:,true,2019-05-30,2021-11-27,2011-06-16,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G1B3G6DD8B333,true,2012-03-18,2018-06-05,2012-02-18,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G1:EE91B54:7C,true,2020-09-10,2022-04-01,2020-10-02,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G224E93E7E9C6,true,2025-01-11,2025-02-14,2025-01-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G3EEE7E2F7887,true,,,2019-03-20,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G2EC789D66BBD,true,,,2022-06-15,false,false,No history of smoking,false,Non-squamous cell carcinoma
+2012-08-17,Stage IA,False,G22GF5E64E49D,true,2022-09-26,2022-10-16,2012-07-20,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G254:29148EG7,true,,,2016-11-19,false,false,History of smoking,false,Squamous cell carcinoma
+2022-10-18,Stage IIIA,False,G4F6F:2B3D7CG,true,2024-10-06,,2022-10-08,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G3CG5712E:B54,true,2023-09-23,2023-10-27,2023-09-24,true,true,History of smoking,,Squamous cell carcinoma
+2025-01-07,Stage IIB,False,G135B:GEC35G4,true,,,2024-12-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G325BD94D:C:4,true,2018-07-15,2018-07-22,2018-07-11,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-09-30,Stage I,False,G1EC96128CD44,true,,,2023-10-03,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3842BD:23EG:,true,2017-08-18,2017-08-30,2017-09-26,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1542E4F46G4B,true,2017-07-16,2017-08-20,2017-08-07,true,true,No history of smoking,,Non-squamous cell carcinoma
+2015-05-25,Stage IA,False,G4E5:55F54:GF,true,,,2015-03-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+2013-05-17,Stage IA,False,G1B7ED55DF4BC,true,,,2013-05-14,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G589:F32449G5,true,2022-11-20,2022-11-19,2022-12-26,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-09-17,Stage IB,False,G1798G9G89E43,true,2023-08-30,,2015-08-16,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1E2B6::D8477,true,2022-08-23,2022-09-28,2022-09-27,true,true,History of smoking,,Squamous cell carcinoma
+2016-08-06,Stage IB,False,G512:F73:::3B,true,,,2016-08-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G25BG745::8GE,true,2024-07-17,,2024-04-12,false,true,No history of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G11E:D3E21E6:,true,,,2024-03-01,false,false,History of smoking,false,Non-squamous cell carcinoma
+2014-07-15,Stage IA,False,G13:BC23G5169,true,,,2014-08-15,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G51F25:3GF134,true,2015-07-29,,2015-09-03,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3B942496:87:,true,2012-06-13,2012-08-03,2012-07-13,true,true,History of smoking,,Squamous cell carcinoma
+2018-12-06,Stage IA,False,G1:32D::1B8F1,true,,,2018-09-08,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2CBC84D5ED1E,true,2021-01-26,2021-03-13,2021-03-10,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14E7662::61C,true,2013-10-13,2013-09-15,2013-09-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-03-03,Stage IIIB,False,G24E:FB36:C8B,true,2015-12-11,,2015-11-04,false,true,History of smoking,true,Squamous cell carcinoma
+2016-05-17,Stage IB,False,G13:34:7F9D57,true,,,2016-05-03,false,false,History of smoking,true,Squamous cell carcinoma
+2015-04-01,Stage IA,False,G14G62FBFF2G:,true,2020-12-29,2021-02-02,2015-01-28,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G4G:5DG58FGG:,true,2017-10-13,2017-09-18,2017-10-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G22D6BD662E16,true,2019-01-12,2019-02-12,2018-10-28,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G45311117177E,true,2023-12-17,2023-12-03,2023-11-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G23:F54B4:E7F,true,2020-05-19,2020-06-27,2020-06-05,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G35B956BB:BG8,true,2021-08-23,,2021-07-17,false,true,History of smoking,false,Non-squamous cell carcinoma
+2022-11-29,Stage II,False,G4C4:64E35941,true,,,2022-10-31,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G416435G89915,true,2014-02-14,2014-01-29,2014-01-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G448FDE96D2D6,true,2015-02-21,2015-02-26,2015-02-04,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G1G5G8G1EE2EG,true,2019-07-04,,2019-07-20,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G5273D::F8155,true,2016-07-17,2016-07-25,2016-07-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G5266FE:EBE18,true,2015-06-11,2015-06-09,2015-06-19,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G592EE77E:133,true,2016-04-19,2016-05-03,2016-05-04,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G2FB35E4B8C3C,true,2022-11-04,2022-11-08,2022-10-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-02-27,Stage IIIA,False,G454DBCD9D942,true,,,2011-11-06,false,false,History of smoking,true,Non-squamous cell carcinoma
+2013-01-18,Stage IB,False,G36E5GCDD57ED,true,,,2012-12-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G17BB6EDG:98F,true,2018-12-30,2018-11-22,2018-12-17,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-07-13,Stage IB,False,G29D9FB:D1D6B,true,2020-09-20,2020-10-22,2016-08-04,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G297F22C7G86F,true,2014-04-20,2014-05-06,2014-05-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G1G618861EGD9,true,2017-04-18,,2016-05-05,false,true,History of smoking,false,Non-squamous cell carcinoma
+2012-10-08,Stage IA,False,G4E4734258BE1,true,2022-03-29,2022-02-25,2012-09-03,true,true,No history of smoking,true,Non-squamous cell carcinoma
+2016-03-18,Stage IB,False,G4ED25F4G24F2,true,2018-06-01,2018-05-03,2016-04-03,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G2G1D1B:745EG,true,2019-02-09,2019-01-28,2019-01-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G42F66683D631,true,,,2017-12-17,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G183BG5B65678,true,2018-09-21,2018-10-27,2018-10-24,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G1G4BC1:B::63,true,,,2021-05-22,false,false,History of smoking,false,Non-squamous cell carcinoma
+2014-12-30,Stage IIIA,False,G2FGG8E7B7G6B,true,2015-06-07,,2014-03-11,false,true,History of smoking,true,Squamous cell carcinoma
+2015-11-05,Stage IB,False,G443F5:C4::6B,true,,,2015-10-24,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIA,False,G3FE:CB6:EG58,true,,,2024-02-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+2012-01-19,Stage IA,False,G1G59:G78G98B,true,,,2011-11-25,false,false,History of smoking,true,Non-squamous cell carcinoma
+2023-05-22,Stage IIB,True,G2DC29B:962F1,true,,,2022-11-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+2011-07-16,Stage IA,False,G3ED9686E8628,true,2012-06-03,2012-06-20,2011-05-24,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G4D:183G813CB,true,2013-01-23,,2013-03-03,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4C4FFC35G979,true,2022-01-01,2022-01-20,2022-01-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G15G:1FB996:1,true,2013-03-22,2013-02-03,2013-03-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2E42153423:E,true,2018-02-09,2018-02-23,2017-12-26,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G3E76E32E795:,true,2019-08-24,2019-08-27,2019-08-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G58G2E7D9G4E7,true,2014-07-19,,2014-06-26,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G4D62843::5E1,true,,,2020-10-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2DE:67GGB29B,true,2024-02-23,2024-02-07,2024-03-09,true,true,History of smoking,,NSCLC histology NOS
+2011-06-02,Stage IA,False,G1442DGE397:8,true,,,2011-05-18,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G45CDF47FB51D,true,2023-02-28,2023-02-01,2017-09-14,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G3::1:B4F:3D4,true,2014-04-05,2014-02-16,2014-02-27,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1EE49EC392G6,true,2023-03-16,2023-03-06,2023-02-25,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-06-07,Stage IA,False,G151GFFC4E731,true,2020-03-27,,2016-06-05,false,true,History of smoking,true,Non-squamous cell carcinoma
+2021-07-26,Stage IB,False,G1B917148GF:F,true,2022-04-12,,2021-06-17,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G59243DC543:8,true,2024-05-26,2024-07-02,2024-05-21,true,true,No history of smoking,,Non-squamous cell carcinoma
+2023-01-29,Stage IIIA,False,G37374D4F9C65,true,,,2022-08-25,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage III,False,G545:2F182DD:,true,2015-01-08,2015-01-16,2014-01-10,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G25E1C41F29EC,true,2015-05-25,2015-05-09,2015-04-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G4G9FGCC44D65,true,2020-03-14,,2017-04-19,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G1FD:7FG6G662,true,,,2024-07-06,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1GC7BGB8G544,true,2020-01-19,2020-01-03,2020-01-24,true,true,No history of smoking,,Non-squamous cell carcinoma
+2014-05-26,Stage IA,False,G4FG9D112D:6F,true,2017-05-09,2017-05-05,2014-03-13,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G571:F2184:45,true,2012-01-29,2012-02-25,2012-01-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G521495E9:9B9,true,2012-12-12,2012-10-26,2012-11-08,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G3483:582E779,true,2015-03-26,,2015-04-13,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G15DCCD:D9154,true,2023-05-06,2023-06-11,2023-06-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2F8618:5DF1:,true,2014-03-19,2014-04-04,2014-04-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G139B99CDGDD7,true,,,2022-11-07,false,false,History of smoking,false,Squamous cell carcinoma
+2016-01-12,Stage IA,False,G53GB9B737431,true,,,2016-02-05,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G166B735:96D2,true,2012-09-17,2012-10-12,2012-10-21,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-08-13,Stage IB,False,G242GD729:FB:,true,2024-04-14,2024-06-09,2023-04-03,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G2E42D7G82632,true,,,2013-08-30,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4CCEFF5GB86F,true,2022-03-04,2022-03-03,2022-02-13,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G18D6GFCCC88F,true,2022-02-13,2022-03-01,2022-03-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G555D3D316568,true,2018-06-26,2018-06-23,2017-10-03,true,true,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G1C3D332:5G66,true,,,2022-05-02,false,false,No history of smoking,false,Non-squamous cell carcinoma
+2011-11-16,Stage I,False,G3G18D5D62822,true,2011-12-09,2011-11-23,2011-10-22,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G1D3:96CE9334,true,2023-05-10,2023-04-24,2019-03-09,true,true,History of smoking,false,Non-squamous cell carcinoma
+2024-08-25,Stage IA,False,G54::3B2F5:32,true,,,2024-07-22,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G4C88CEG2:289,true,2024-11-08,,2024-12-04,false,true,No history of smoking,false,Squamous cell carcinoma
+2014-03-04,Stage IIB,False,G1F:9CFGFGFC1,true,2016-12-09,2016-12-15,2014-03-27,true,true,History of smoking,true,Squamous cell carcinoma
+2023-12-13,Stage IIIA,False,G1GF8DBB8F145,true,,,2023-12-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+2020-03-27,Stage IB,False,G2:4:1999D:E5,true,,,2020-03-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G27B64GG4EE98,true,,,2021-04-18,false,false,History of smoking,false,Non-squamous cell carcinoma
+2021-06-24,Stage IIIA,False,G48FCG1D:D6C5,true,2021-12-01,,2020-11-22,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G1CFE2442E26G,true,2013-07-31,,2013-06-26,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G1F8F989D:8C8,true,2020-05-25,2020-06-14,2020-06-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G27868:751BDF,true,2024-06-01,2024-05-07,2024-05-10,true,true,History of smoking,,Non-squamous cell carcinoma
+2013-11-26,Stage IA,False,G432E:9E:21DC,true,,,2013-10-18,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G349ECCC6E7G9,true,2022-05-04,2022-05-26,2022-02-16,true,true,History of smoking,false,NSCLC histology NOS
+,Stage IIIA,False,G1D4BED:EE889,true,,,2022-12-05,false,false,History of smoking,false,Squamous cell carcinoma
+2015-12-03,Stage IB,False,G2389G8E2B4EC,true,,,2015-12-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+2020-02-12,Stage IIA,False,G52B74F86723D,true,,,2020-02-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G234FGBCGD51F,true,2014-12-25,2015-01-01,2015-01-19,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2G1CF3FED3DG,true,2017-11-20,2017-11-13,2017-11-23,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G48EG9E748G84,true,2014-05-27,2014-06-07,2014-05-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G32:::74B314F,true,2012-10-26,2012-10-17,2012-11-02,true,true,History of smoking,,NSCLC histology NOS
+,Stage IB,False,G33DF57E5D446,true,,,2021-04-23,false,false,History of smoking,false,Non-squamous cell carcinoma
+2021-05-23,Stage IIB,False,G1B11153DEF52,true,,,2021-04-18,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G172:3F55D17F,true,,,2022-07-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4796E694GBED,true,2019-12-30,2020-01-12,2019-12-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G3B8B956G8339,true,,,2024-05-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G4F52FDF7GFG5,true,2023-10-13,2023-10-10,2023-10-17,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G31G8682955FB,true,2024-07-14,2024-07-01,2024-06-18,true,true,No history of smoking,,Squamous cell carcinoma
+,Stage IVB,,G36G688G4EBD6,true,2023-07-29,2023-07-03,2023-06-04,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G1D:61B997689,true,2018-08-05,2018-06-11,2018-07-26,true,true,No history of smoking,,Non-squamous cell carcinoma
+2013-11-22,Stage IIA,False,G59G63545722G,true,,,2013-12-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+2022-05-08,Stage IIB,False,G16952:711:93,true,2023-12-04,2023-12-12,2022-05-02,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G256EFF:9B33F,true,2018-08-20,2018-08-28,2016-06-08,true,true,History of smoking,false,Non-squamous cell carcinoma
+2013-01-09,Stage IA,False,G17C16DG47953,true,,,2013-01-14,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-12-22,Stage IIA,False,G1983:3F:98B7,true,2020-05-30,2020-05-24,2019-11-17,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G2763DEB9848B,true,2019-12-26,2019-12-03,2020-01-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G3:35C52691D:,true,2021-01-31,2021-02-23,2021-03-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G27B9E7CEC2E5,true,2017-06-08,2017-06-10,2017-05-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3FF9EE1D39::,true,2013-08-10,2013-06-23,2013-08-07,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G29E1GCG88G26,true,,,2024-09-26,false,false,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G3GF88F:7::4:,true,2015-11-05,2015-11-28,2015-11-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14ECFDEBG33C,true,2013-10-06,2013-10-22,2013-10-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G18EBC2339CGG,true,2014-11-27,2014-12-09,2014-11-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G324FFFD5:3B5,true,2014-06-04,2014-06-01,2014-07-08,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G2D75DGG3E33:,true,2021-02-08,2021-01-23,2021-02-13,true,true,History of smoking,,Squamous cell carcinoma
+2021-02-20,Stage IIB,False,G128:92:3BD3D,true,2022-04-16,2023-02-14,2021-01-23,true,true,History of smoking,true,Squamous cell carcinoma
+2019-11-20,Stage IB,False,G2:26657E31D6,true,,,2019-11-23,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage III,False,G462F:C:9B752,true,,,2015-02-17,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IB,False,G4EB5B568:G9B,true,,,2016-04-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G48842BBE3634,true,,,2013-01-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G3FGEBG3CG127,true,2024-09-17,,2024-09-28,false,true,No history of smoking,false,Non-squamous cell carcinoma
+2018-04-09,Stage IA,False,G195E47819BCF,true,,,2018-04-03,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G38C61:99G266,true,2022-11-30,2022-11-05,2021-05-27,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1G911BEC5817,true,2013-06-25,2013-05-12,2013-05-26,true,true,Unknown/Not documented,,Squamous cell carcinoma
+2025-02-26,Stage IIIA,False,G4FG6E1D:B1B7,true,2025-03-10,,2024-12-04,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G13B9C4:GD648,true,2012-07-20,2012-06-11,2012-02-23,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G2B54GDGE66BF,true,,,2014-03-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+2018-01-14,Stage I,False,G1454D4515FE2,true,,,2018-02-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G4464DBGC:5B4,true,2017-07-24,,2017-07-27,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G3BCC2GG732G:,true,2014-09-11,2014-09-21,2011-08-02,true,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G1DC7D695BC21,true,2020-06-18,2020-05-23,2020-05-25,true,true,History of smoking,,Squamous cell carcinoma
+2016-09-30,Stage IIA,False,G2F788F1DF134,true,,,2016-09-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3C98:B743F7B,true,2012-11-08,2012-11-21,2012-11-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G2F:C3344EG8G,true,2024-05-29,2024-05-08,2015-02-28,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIC,False,G1334E4719E17,true,2021-06-01,,2021-06-13,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G34BG69F45EE4,true,,,2018-06-13,false,false,History of smoking,false,Non-squamous cell carcinoma
+2011-12-23,Stage IB,False,G3CE666498C:9,true,2012-11-17,2012-11-23,2011-11-08,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G4DE3DE99E:13,true,2014-08-15,2014-09-14,2014-09-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G4GF74CE8E4:6,true,2023-04-11,2023-03-28,2023-04-17,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G47DB481E783:,true,2024-05-03,2024-05-04,2024-06-14,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIA,False,G3::D515D6ED6,true,2012-02-15,,2011-04-18,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G166G5:E8CEDF,true,,,2016-04-11,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G344BC2:6BGE1,true,2011-10-16,2011-09-11,2011-10-06,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G14955945B53:,true,2022-12-29,2022-11-05,2022-12-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G55D67392F8:9,true,,,2023-08-05,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G11:1G4CE9G7B,true,2018-06-29,2018-07-30,2018-08-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G4C89FC6D8388,true,2024-09-21,2024-09-02,2024-08-29,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G4C359BF6:9G1,true,,,2013-07-04,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G3F:179:3B4D8,true,,,2020-11-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G44DBB13D9C9:,true,2018-09-25,2019-03-03,2018-09-23,true,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G1D:B49GGG719,true,2016-04-05,2016-03-19,2016-03-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-03-17,Stage IIIA,False,G51CGF94FC414,true,,,2020-11-27,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G26EFGF738125,true,2017-10-02,2017-10-08,2017-09-24,true,true,No history of smoking,,Squamous cell carcinoma
+2016-06-27,Stage IA,False,G5833CG5C27C7,true,,,2016-05-12,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G12BDE:8C6D:E,true,2011-10-18,2011-10-29,2011-10-26,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-10-08,Stage IIB,False,G1GC444DCD149,true,,,2015-06-02,false,false,History of smoking,true,Squamous cell carcinoma
+2022-06-11,Stage IB,False,G5344:8G5698G,true,2024-09-09,2024-09-12,2022-07-10,true,true,History of smoking,true,Non-squamous cell carcinoma
+2019-04-16,Stage IA,False,G43G5:3E95F67,true,,,2019-04-06,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage I,False,G3D:1D7FGCEBE,true,,,2022-05-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1E586G415EF7,true,2016-02-05,2015-12-22,2015-12-26,true,true,History of smoking,,Non-squamous cell carcinoma
+2017-03-02,Stage IIA,False,G1F9CDC2FCB:5,true,2021-04-17,2021-02-20,2017-01-23,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G4ECBF26D2579,true,2014-04-18,2014-04-17,2014-03-20,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-09-20,Stage IB,False,G4G112E8D78E5,true,,,2019-09-12,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1E69F659F391,true,2024-03-14,2024-04-04,2024-03-15,true,true,History of smoking,,Squamous cell carcinoma
+2018-02-04,Stage IA,False,G419BEEC19D2C,true,2021-07-07,2021-05-24,2018-01-04,true,true,Unknown/Not documented,true,Non-squamous cell carcinoma
+,Stage IV,,G2F4G94B6ED68,true,2019-08-12,2019-08-05,2019-07-22,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G3EC469E475EB,true,,,2018-03-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G554292GGE7B7,true,2023-07-26,2023-07-29,2023-07-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIC,False,G2DCF3C5B462B,true,2022-09-20,,2022-08-19,false,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G564F8B8:FB1E,true,2022-08-04,,2022-08-25,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G2G251E378FE8,true,2018-11-08,2018-10-18,2018-11-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G16:68344G7:D,true,2022-03-23,2022-04-23,2022-04-13,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G21B4CD9B81B7,true,2012-05-12,2012-06-14,2012-07-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G5993:133E3:3,true,2016-12-04,2016-11-10,2016-11-12,true,true,History of smoking,,Squamous cell carcinoma
+2014-09-23,Stage IIA,False,G1B6F2D98G4BD,true,,,2014-09-11,false,false,History of smoking,true,Squamous cell carcinoma
+2012-05-12,Stage I,False,G3G44311GF1D1,true,,,2012-04-12,false,false,No history of smoking,true,Squamous cell carcinoma
+,Stage IV,,G2263646BG1E5,true,2012-06-21,2012-07-05,2012-06-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G253D7G:9C8CE,true,2014-01-20,2013-12-24,2013-12-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G517B45372B5D,true,2020-01-26,2020-03-21,2020-03-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1BBDD:8BDED9,true,2019-02-15,2019-02-19,2019-03-01,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G3951BC5GBE44,true,2024-07-31,,2023-04-28,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G21C61GC:BF54,true,,,2013-09-03,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1G5771EC2C8F,true,2017-10-24,2017-11-19,2017-11-12,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G14F1:C3:EB31,true,2014-03-05,2014-02-10,2014-02-20,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G1G194ECBE647,true,2019-08-11,,2019-08-21,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4F354B:F341F,true,2014-06-24,2014-06-10,2014-06-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G1C22CGB1F5C2,true,2019-05-30,2019-07-03,2019-06-21,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G3B:GGE2C4G47,true,2017-12-07,2017-11-18,2017-10-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G18:DBEFC6231,true,2019-07-26,2019-06-20,2019-06-22,true,true,History of smoking,,Non-squamous cell carcinoma
+2013-07-31,Stage IIB,False,G358963178E45,true,2014-05-20,2014-05-19,2013-08-04,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G338E:286D25G,true,2024-02-09,2024-02-27,2024-02-14,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-06-16,Stage IA,False,G17DC5G:4GB26,true,,,2020-05-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G4:44:81D:D44,true,2015-09-23,2015-09-07,2015-09-11,true,true,History of smoking,,Non-squamous cell carcinoma
+2025-02-23,Stage IIIA,False,G3234EEG3CB4E,true,,,2024-11-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G21BD9C1D75:6,true,2018-05-18,2018-06-27,2018-06-10,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-10-19,Stage IA,False,G17D55135G8D8,true,,,2020-09-04,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2021-12-17,Stage IIIA,False,G32B1E29263BG,true,,,2021-12-13,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G1B3558DGF36B,true,2019-08-01,,2019-08-14,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2985DF45658D,true,2018-11-28,2018-11-27,2018-11-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3D5BG82C889G,true,2021-05-10,2021-05-20,2021-04-06,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-03-15,Stage IB,False,G41B74:492F9E,true,,,2024-03-13,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G3D:24E398DDF,true,2019-09-22,2019-11-15,2019-10-08,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G1G:94B69FD31,true,2024-08-02,,2023-07-20,false,true,History of smoking,false,Non-squamous cell carcinoma
+2019-03-29,Stage IIB,False,G197749F82EED,true,,,2019-04-08,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IA,False,G58541E28561C,true,,,2024-10-12,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G35F74FGBE8CE,true,2018-11-30,2018-12-27,2018-12-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G19B4FDEB5D:9,true,2012-06-01,2012-05-29,2012-04-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G1CGF44F849F1,true,2024-01-05,2024-01-28,2024-01-02,true,true,History of smoking,,NSCLC histology NOS
+2022-03-08,Stage IB,False,G19:5G3597FDE,true,,,2022-01-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2:G:7:4883DB,true,2018-01-29,2018-01-21,2018-02-19,true,true,History of smoking,,Squamous cell carcinoma
+,Stage I,False,G35DE4B3:BCB8,true,2014-10-02,2014-09-23,2014-01-20,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G3:G28F:1562B,true,2017-05-30,2017-07-27,2015-03-09,true,true,History of smoking,false,NSCLC histology NOS
+2018-09-30,Stage IA,False,G1EG8767G6BG4,true,,,2018-07-17,false,false,History of smoking,true,Squamous cell carcinoma
+2017-05-09,Stage I,False,G12678:D56G88,true,,,2017-04-20,false,false,History of smoking,true,Squamous cell carcinoma
+2015-01-19,Stage IIIA,False,G3EC5EB18C676,true,2016-06-18,2016-10-21,2015-01-05,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G4B63:1C9D452,true,2015-10-12,2016-08-21,2015-10-21,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G2GD72:FBC5FG,true,,,2021-11-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+2022-06-28,Stage IIB,False,G1445DG1:E6:D,true,,,2022-05-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G23F23C5G7BFD,true,2018-08-19,2018-09-05,2018-08-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1:78734BCEDB,true,2013-11-26,2013-10-30,2013-10-15,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G46:6C69:D9:C,true,,,2023-11-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+2016-03-29,Stage IA,False,G3G5:E6757485,true,,,2016-02-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2GC:751BF4B8,true,2016-06-26,2016-06-22,2016-07-10,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G4F76B42753CE,true,,,2023-03-05,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G27C8FF:88CEC,true,2020-03-07,2020-03-17,2020-04-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G269235FC:5C7,true,2014-08-22,2014-09-16,2014-07-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2947E4CC163E,true,2011-04-16,2011-05-02,2011-04-08,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G13CCC275:E7G,true,2012-04-03,,2012-04-01,false,true,History of smoking,false,Squamous cell carcinoma
+2020-03-30,Stage IB,False,G39GDBC3:451E,true,,,2020-04-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+2022-06-06,Stage IB,False,G375C6BF:F45G,true,,,2022-02-26,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G455E1367:DG4,true,2015-11-02,2015-11-30,2015-10-30,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4G7F7:52E6:4,true,2015-01-30,2015-01-17,2015-02-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G44B44661:316,true,2014-09-07,2014-08-20,2014-08-15,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G11D8D2G1D8CD,true,2018-03-29,2018-04-18,2018-04-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G112742CCDGB3,true,,,2015-11-06,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G359C2E:9E3B7,true,,,2017-09-09,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IB,False,G19237511G1:D,true,2022-07-29,2022-07-12,2021-10-01,true,true,History of smoking,false,Non-squamous cell carcinoma
+2018-04-01,Stage IIB,False,G1B59D86EEB5E,true,2019-09-25,2019-08-29,2018-02-15,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G2F3G716C4615,true,,,2022-03-27,false,false,History of smoking,false,Squamous cell carcinoma
+2023-11-30,Stage IIB,False,G199G4682G18:,true,,,2023-08-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G2GBGG41E473F,true,,,2018-05-17,false,false,No history of smoking,false,Squamous cell carcinoma
+2024-10-22,Stage IIB,False,G2E42F615FFFC,true,,,2024-05-14,false,false,History of smoking,true,Squamous cell carcinoma
+2020-02-12,Group stage is not reported,False,G44552F46B17G,true,,,2020-02-08,false,false,History of smoking,true,NSCLC histology NOS
+,Stage IIB,False,G2B6115235F8E,true,,,2022-08-16,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G56CF8BF38D:7,true,2013-03-16,2013-02-22,2013-03-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G19DB44:G31G8,true,2015-12-08,,2012-09-15,false,true,Unknown/Not documented,false,Non-squamous cell carcinoma
+,Stage IA,False,G44F273GG65BC,true,,,2019-06-09,false,false,History of smoking,false,Non-squamous cell carcinoma
+2019-03-11,Stage IA,False,G1D41F368EE:G,true,,,2018-12-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IB,False,G1CCE24EED8F8,true,,,2022-04-25,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G32E8G9G99CGC,true,,,2024-06-21,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2628C28G7613,true,2015-04-07,2015-03-21,2015-03-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G2BEFF41G59F1,true,2022-08-26,2022-09-29,2022-10-02,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G1:46DC16B5B8,true,2024-01-09,2023-12-07,2024-01-13,true,true,History of smoking,,Squamous cell carcinoma
+2019-04-28,Stage IA,False,G27GE:C15:GC:,true,,,2019-04-29,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G287BD28548B:,true,2018-12-27,2019-02-11,2018-12-29,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G21:2B8189648,true,2019-01-18,2019-01-28,2019-02-15,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G23E296CD6E5E,true,2014-08-31,2014-09-25,2014-09-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G38F8684B8FG8,true,2015-09-21,2015-08-14,2015-09-10,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G5:919981B622,true,,,2023-03-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1:CFD526E3::,true,2024-12-11,2025-01-04,2025-01-27,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G31E3981E532:,true,2022-10-31,2022-12-19,2022-11-20,true,true,History of smoking,,Non-squamous cell carcinoma
+2014-04-22,Stage I,False,G11B743:8G337,true,2014-11-04,,2014-03-21,false,true,History of smoking,true,Non-squamous cell carcinoma
+2023-11-23,Group stage is not reported,False,G53BC99F2C1B7,true,,,2023-10-03,false,false,History of smoking,true,Squamous cell carcinoma
+2013-01-06,Stage I,False,G569:C7B6CD49,true,,,2012-04-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2CG3EF9E5:2B,true,2020-09-28,2020-10-13,2020-10-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G1ED5EF238G3C,true,2024-06-28,2024-05-27,2024-07-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3CE:D2672519,true,2019-03-31,2019-04-25,2019-04-12,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-10-11,Stage IIB,False,G56B734583C17,true,,,2020-09-29,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2014-03-04,Stage IA,False,G2398:2936:C9,true,,,2013-10-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G56EBB:DF7644,true,2022-01-24,2022-01-18,2022-01-05,true,true,History of smoking,,Squamous cell carcinoma
+2015-12-05,Stage IIB,False,G2DF3B32C85E1,true,,,2015-11-11,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IB,False,G31CD8287G716,true,,,2022-05-14,false,false,History of smoking,false,Squamous cell carcinoma
+2014-04-29,Stage IIA,False,G137E52F7CG86,true,,,2014-05-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+2024-02-09,Stage IIIA,False,G52:6C556E791,true,,,2024-03-29,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2021-06-22,Stage IIA,False,G4484725BB423,true,2023-12-15,2023-12-09,2021-04-19,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G23G4C57:DEB5,true,2020-09-10,2020-07-24,2012-05-03,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G5829EBB749DF,true,2018-12-12,,2014-06-24,false,true,History of smoking,false,Squamous cell carcinoma
+2014-06-04,Stage IB,False,G2G945114428E,true,,,2014-04-02,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G177G4:B9E394,true,2022-10-12,2022-09-18,2022-10-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G2D7F77586F3B,true,2019-12-21,,2020-02-15,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4GD:D13B31BB,true,2018-04-23,2018-03-18,2018-03-22,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G11:82999D55C,true,,,2016-12-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G22G88E2:59:7,true,2022-09-23,2022-10-07,2022-10-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G2262335C:D62,true,2023-05-14,,2023-06-06,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G515E48195682,true,2021-02-19,2021-02-23,2021-03-03,true,true,History of smoking,,NSCLC histology NOS
+,Stage I,False,G261G2975G4EC,true,2014-03-07,,2013-07-16,false,true,History of smoking,false,Squamous cell carcinoma
+2012-06-25,Stage IIA,False,G2881BDCF7:B8,true,,,2012-06-13,false,false,History of smoking,true,Squamous cell carcinoma
+2016-01-09,Stage IA,False,G55D76FBF17GF,true,2019-02-14,2019-01-29,2015-11-20,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G59E42F1GC2EB,true,,,2025-03-28,false,false,Unknown/Not documented,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G4989E69:D856,true,2024-11-22,2025-04-16,2024-10-24,true,true,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G247964FE2:1B,true,,,2024-12-06,false,false,History of smoking,false,Non-squamous cell carcinoma
+2018-03-10,Group stage is not reported,False,G12::6:8214CE,true,,,2018-03-18,false,false,Unknown/Not documented,true,Squamous cell carcinoma
+,Stage IVB,,G215817D1B289,true,2021-01-03,2020-11-26,2020-12-25,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G5669E21B9D52,true,2017-01-23,,2017-02-16,false,true,No history of smoking,false,Non-squamous cell carcinoma
+2020-08-16,Stage IIIA,False,G574795::16B2,true,,,2020-09-16,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage I,False,G21499CB83933,true,,,2016-08-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+2023-02-09,Stage IB,False,G44785496DGE9,true,2024-04-21,,2023-01-25,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G4C3D17B9F7B7,true,2020-09-12,2020-08-06,2020-09-10,true,true,History of smoking,,Squamous cell carcinoma
+,Group stage is not reported,False,G2G45EC515283,true,,,2019-11-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G38:B8EFC2DB4,true,,,2021-03-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1C9DDC69C3E3,true,2015-05-26,2015-06-22,2015-05-26,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-09-02,Stage IIIA,False,G1:3B43D3B55G,true,,,2023-07-01,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G3848B49CFD:G,true,2013-12-02,2015-01-15,2014-01-20,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1B2469295BGE,true,2013-10-26,2013-11-15,2013-11-21,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-07-17,Stage IIIA,False,G2::G3B8CFF4C,true,,,2024-06-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2122:B861CD6,true,2022-05-13,2022-04-19,2022-04-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G16C41789C1C5,true,2021-03-01,2021-03-10,2020-07-31,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G434D7BE:6E1:,true,2024-10-29,2024-11-05,2024-12-08,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G2238E77DGF17,true,2023-06-15,2023-06-05,2023-07-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G2D168F99BCD4,true,2022-05-27,2022-04-25,2022-05-13,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3:G16D1G266E,true,2018-03-01,2018-01-30,2018-03-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-01-26,Stage IIB,False,G22FG21G231E9,true,,,2021-09-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G475BB:CGC731,true,2021-04-15,2021-03-29,2021-05-20,true,true,History of smoking,,Non-squamous cell carcinoma
+2018-12-30,Stage IIB,False,G3D59288727DB,true,2019-08-14,2019-08-16,2019-01-05,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IA,False,G199:3GD5C8:8,true,,,2022-10-14,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G25273E3EC7E1,true,,,2019-11-20,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4229EB584D67,true,2015-02-21,2015-01-29,2015-03-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G1E926115:C1D,true,2018-11-10,,2018-11-06,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2C4G1G76816F,true,2017-08-12,2017-07-02,2017-06-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G24ECG8:8:771,true,2023-07-21,2023-07-12,2023-07-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G44DDC8341D18,true,2023-02-01,2023-01-14,2022-05-31,true,true,History of smoking,false,Non-squamous cell carcinoma
+2013-03-17,Stage IA,False,G2E44884D6124,true,,,2013-03-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+2016-09-17,Stage IIIA,False,G2514B78G7G83,true,,,2016-10-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G1G94B7346C92,true,2018-04-19,2018-04-17,2017-04-26,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G1D4DE:C3C41C,true,2024-01-22,2024-03-01,2024-01-11,true,true,No history of smoking,,Non-squamous cell carcinoma
+2023-01-03,Stage IIB,False,G1:F21E8E2D45,true,,,2023-01-14,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2014-04-13,Stage IIA,False,G11761C7D9713,true,2015-06-02,2015-04-15,2014-01-02,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G34G32711D84C,true,2018-05-15,2018-04-28,2018-05-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-11-01,Stage IA,False,G2379D9F31:EG,true,,,2023-10-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G2C38B34G8794,true,2021-01-27,2021-01-27,2021-01-24,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-12-09,Stage IB,False,G1D13699CC297,true,,,2022-06-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G1C9B158617B6,true,2011-06-30,,2011-07-07,false,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G56ED712FC18F,true,2017-11-25,2018-01-05,2017-12-28,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G3D:GF3GBC34B,true,2016-08-10,,2016-08-06,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G122G2D35B8CE,true,,,2019-05-12,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G126:384BC665,true,2015-01-24,2015-02-03,2015-02-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G179253G9C275,true,2015-03-07,2015-04-03,2015-03-10,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVB,,G1ECEG1B31B5C,true,2023-01-22,2023-01-12,2023-01-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G27B982G6D:8E,true,,,2016-09-08,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1D25F1::ED5E,true,,,2024-02-01,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G1:59G2916:FE,true,2019-12-04,2019-12-24,2020-01-07,true,true,History of smoking,,Squamous cell carcinoma
+2012-10-17,Stage IA,False,G2B3::97221CC,true,2012-10-08,2012-10-13,2012-01-13,true,true,History of smoking,true,Squamous cell carcinoma
+,Group stage is not reported,False,G2F55125:5174,true,,,2023-05-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G376E97C95:G:,true,,,2021-02-20,false,false,History of smoking,false,Squamous cell carcinoma
+2013-04-23,Stage IIB,False,G1C32G396:F7G,true,2014-01-12,2014-01-07,2013-05-01,true,true,History of smoking,true,Squamous cell carcinoma
+2017-01-24,Stage IA,False,G2B99CE5DD1G3,true,,,2017-03-06,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1:63D151:BB3,true,,,2016-08-05,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G5792EBE:8EB3,true,2011-12-29,2012-02-09,2011-12-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G42:C947GB97B,true,2014-04-16,2014-04-22,2014-03-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G1561187B7F::,true,,,2023-09-01,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3E86F75E56C:,true,2021-03-27,2021-03-18,2021-04-02,true,true,No history of smoking,,Non-squamous cell carcinoma
+2017-05-03,Stage IIIA,False,G225D72BD2FD7,true,,,2017-04-01,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2023-08-07,Stage IA,False,G1CG264F79DEG,true,,,2023-07-13,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2018-09-22,Stage IA,False,G1B6GF976DEG:,true,,,2018-10-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+2015-07-27,Stage IIIA,False,G3GB6D5C:448G,true,2017-04-28,2017-04-05,2015-06-08,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G434GE998725C,true,,,2021-07-13,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G323B7:FBC6EF,true,,,2013-05-08,false,false,Unknown/Not documented,false,Squamous cell carcinoma
+2014-06-17,Stage IIIA,False,G26EF86FE2766,true,2015-08-05,2015-07-13,2014-05-31,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3D741EB4:B76,true,2022-04-01,2022-04-29,2022-04-24,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage III,False,G54F42GD8BG74,true,,,2017-04-08,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage III,False,G2CE6D3C3EFDC,true,2012-07-29,2012-07-22,2011-12-30,true,true,No history of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G27F2:FF2B569,true,,,2021-10-23,false,false,History of smoking,false,NSCLC histology NOS
+,Stage IIIB,False,G43D:C17:25FG,true,2013-01-29,2014-04-12,2013-01-23,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G11545861:F9G,true,2015-05-13,2015-06-19,2015-05-19,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVB,,G5B3B6C1D1B9E,true,2020-01-25,2020-02-27,2020-02-05,true,true,No history of smoking,,Non-squamous cell carcinoma
+2023-01-21,Stage IIA,False,G25:86G:69C8:,true,2023-07-06,2023-06-29,2022-12-16,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1CC41:D:7C48,true,2020-02-18,2020-03-02,2020-02-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G118F63B281FD,true,2011-05-01,2011-03-29,2011-03-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G3F2D34C5366D,true,2018-07-12,2018-06-20,2018-06-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G2:CG78B82942,true,,,2019-09-20,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G26C728549E7G,true,2021-07-26,2021-06-17,2021-07-17,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G142964636C93,true,2021-12-31,2021-12-16,2022-01-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-06-30,Stage IA,False,G2::6C82B9288,true,,,2015-05-31,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G168:67EF4888,true,2020-03-14,2020-04-21,2020-04-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G1:4E73:EF22G,true,,,2018-04-14,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2E8B56477B83,true,2012-02-12,2012-02-03,2012-02-06,true,true,History of smoking,,NSCLC histology NOS
+2021-01-24,Stage IA,False,G1BBD88997GE6,true,,,2020-11-19,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G377GC8D648E:,true,2023-12-17,2024-02-01,2024-01-22,true,true,No history of smoking,,Squamous cell carcinoma
+,Stage IA,False,G4754423356F6,true,,,2021-01-21,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIB,False,G2141CBEF3GD3,true,,,2022-08-01,false,false,History of smoking,false,Squamous cell carcinoma
+2012-08-02,Stage IIA,False,G2D5B71G65F2G,true,2014-06-22,2016-01-04,2012-07-07,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G266E6248F531,true,2017-09-21,2017-11-18,2017-10-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1CD225858D1:,true,2015-05-27,2015-06-03,2015-05-20,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G2351BF:22F4G,true,2012-04-30,2012-04-03,2012-03-13,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-11-22,Stage IIIA,False,G1G:1C482FFGC,true,2014-11-19,2014-11-22,2012-11-22,true,true,History of smoking,true,Non-squamous cell carcinoma
+2023-10-01,Stage IIB,False,G1C2771E:459E,true,,,2023-09-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+2020-09-18,Stage IB,False,G241FF877G59G,true,2021-08-26,2021-08-26,2020-10-23,true,true,History of smoking,true,Non-squamous cell carcinoma
+2023-03-12,Stage IA,False,G1C:47F59D4FB,true,,,2023-03-22,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G26D38EC278C1,true,2018-10-05,2018-10-01,2017-07-24,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G1CG8EF93777D,true,2020-06-19,2020-06-16,2019-06-19,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G4B1G4D17C4F8,true,,,2021-12-06,false,false,History of smoking,false,Squamous cell carcinoma
+2018-09-30,Stage IA,False,G2342EB991FC8,true,,,2018-09-04,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IB,False,G2B623B4BG9G:,true,,,2025-04-09,false,false,History of smoking,false,NSCLC histology NOS
+2015-12-01,Stage IIIA,False,G2E14C6F:EG9B,true,2018-10-13,2018-10-27,2015-11-07,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G3:4GG1D412C:,true,,,2019-05-10,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G27456:36F5D8,true,2019-06-08,2019-07-08,2019-06-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G4GE2BD8C57D9,true,2016-10-25,,2016-10-19,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4D6CD2B8C5FD,true,2013-09-12,2013-09-11,2013-10-19,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G158118CE1E2C,true,2017-11-07,2017-11-03,2017-10-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G355524112BFE,true,2017-05-02,2017-05-22,2017-05-27,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-08-22,Stage IIB,False,G1DCDG73E53FF,true,,,2024-03-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3FFB5516FEDF,true,2013-10-05,2013-09-14,2013-08-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G45DDGFC1G86F,true,2015-08-31,2015-07-24,2015-07-13,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G156F22D:3335,true,,,2023-12-11,false,false,History of smoking,false,Squamous cell carcinoma
+2015-10-17,Stage IA,False,G21881333DGG2,true,2019-09-25,2019-11-06,2015-10-27,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage I,False,G2D2EC6C91F3C,true,2018-02-13,2018-03-05,2016-10-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G3G57E5:BG72C,true,2015-06-10,2015-05-14,2011-08-14,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G145E1G:C6189,true,2020-04-06,2020-04-02,2020-04-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4CG4:632GG8E,true,2018-11-13,2018-12-06,2018-10-31,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G1C49C5CC7:F7,true,2016-10-02,,2016-10-08,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G2:2F:8G89E84,true,,,2020-12-05,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G1BD38575BDCG,true,,,2022-09-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G31:9DD57G8:5,true,,,2012-10-29,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G168G1C789D7C,true,2013-02-19,2013-01-26,2013-02-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1G88D5G998GE,true,,,2019-11-17,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4GE2958C:E1C,true,2011-06-01,2011-06-16,2011-06-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G3B76E8182:B:,true,2023-12-14,,2023-11-14,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G31:39E3E9GF4,true,2020-07-17,2020-08-11,2020-08-25,true,true,No history of smoking,,Non-squamous cell carcinoma
+2019-01-13,Stage IB,False,G1G913:D125BD,true,,,2019-02-18,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2023-03-08,Stage IB,False,G2G22BF9DCG81,true,,,2022-11-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+2017-08-22,Stage I,False,G437:CB1EF9DB,true,2024-04-08,2024-04-19,2017-09-23,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G23G13:GCG631,true,2017-11-15,2017-09-16,2017-10-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4773B34C5224,true,2022-01-13,2022-01-08,2022-01-10,true,true,No history of smoking,,NSCLC histology NOS
+,Stage IV,,G184:C43CDE:B,true,2017-05-05,2017-05-05,2017-05-23,true,true,History of smoking,,Squamous cell carcinoma
+,Group stage is not reported,False,G35:D379:C56C,true,,,2021-07-11,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1F9BCG13:EFD,true,2021-11-06,2021-11-04,2021-10-19,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2FF1862EC655,true,2013-09-17,2013-09-25,2013-09-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G113F6E9B894:,true,,,2024-05-08,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G118FGGEFBE44,true,,,2015-10-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1BG:7FD7572:,true,,,2017-07-04,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G4DD6CBGD124F,true,,,2025-01-10,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G3CFD616B13G9,true,2022-01-15,2022-01-12,2022-01-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G26C72D6F6G:5,true,2020-05-19,2020-04-21,2020-04-11,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14::E36GD8C6,true,2019-03-18,2019-03-28,2019-03-24,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G1117E45EE891,true,2014-04-22,2014-05-21,2013-12-26,true,true,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G138D8GDE5B66,true,,,2016-10-05,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G5:CE:F92EE8D,true,2012-01-29,2015-06-05,2012-01-28,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G42B4F:55::6F,true,2020-06-07,2020-06-04,2020-07-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1C8BC23336FC,true,2018-02-17,2018-02-25,2018-03-03,true,true,No history of smoking,,Non-squamous cell carcinoma
+2024-01-07,Stage IIA,False,G2G6E1E144F8E,true,,,2023-10-25,false,false,History of smoking,true,Squamous cell carcinoma
+,Group stage is not reported,False,G1FF926G67CF7,true,,,2016-12-14,false,false,History of smoking,false,Squamous cell carcinoma
+2014-04-01,Stage I,False,G1FE1DBD491BE,true,,,2014-03-06,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2FF5BBF:G7GF,true,2019-08-07,2019-09-13,2019-09-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-02-27,Stage IIB,False,G37:G5BB4:964,true,2024-04-10,2024-05-20,2023-03-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G174FDF7E16C9,true,2015-10-01,2015-09-11,2015-10-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G136E3F9:956D,true,,,2019-12-16,false,false,History of smoking,false,NSCLC histology NOS
+2022-12-11,Stage IA,False,G1D95G2B6G94C,true,,,2022-09-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G2CCC3642E:67,true,2019-11-25,2019-11-25,2019-01-31,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G147ED4GE76EE,true,2019-11-20,,2019-11-15,false,true,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G1885B3G8447B,true,2022-05-29,,2022-04-10,false,true,History of smoking,false,Non-squamous cell carcinoma
+2011-09-01,Stage I,False,G1E9D4B8B619D,true,,,2011-09-22,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G14G5B9C531F6,true,2017-06-16,,2016-10-25,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G1DC4F668B454,true,2023-08-06,2023-08-17,2023-07-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G148327249BD9,true,,,2024-08-24,false,false,No history of smoking,false,Squamous cell carcinoma
+,Stage IV,,G193F989CDC3D,true,2015-10-19,2015-11-03,2015-10-08,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G38CBBD868BFC,true,2012-09-29,,2012-09-10,false,true,History of smoking,false,Non-squamous cell carcinoma
+2022-02-24,Stage IB,False,G37GC233F5FB2,true,,,2022-02-04,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G15GFGE5:BDC9,true,2018-03-11,2018-03-03,2018-03-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G226625298DGC,true,2021-06-01,2021-05-15,2021-05-31,true,true,History of smoking,,Squamous cell carcinoma
+2014-01-31,Stage IA,False,G358EF4457D52,true,,,2013-12-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G147B:8F3B:52,true,2021-08-13,2021-09-13,2021-09-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage III,False,G548B2:G6G6D:,true,,,2018-06-15,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G28F814933C3F,true,2023-12-19,2024-12-21,2023-12-28,true,true,History of smoking,false,Non-squamous cell carcinoma
+2021-07-05,Stage IA,False,G38C6E8:EDB32,true,,,2021-07-13,false,false,History of smoking,true,Non-squamous cell carcinoma
+2014-05-07,Stage IIA,False,G4891G553:D48,true,,,2014-04-04,false,false,History of smoking,true,Squamous cell carcinoma
+2012-11-03,Stage IB,False,G5545136B977G,true,,,2012-10-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1D61871659DG,true,2011-04-19,2011-05-05,2011-04-08,true,true,History of smoking,,Squamous cell carcinoma
+2019-11-23,Stage IIIA,False,G29D:2G22FD8E,true,,,2019-10-28,false,false,No history of smoking,true,Squamous cell carcinoma
+,Stage IV,,G4B9:3796F753,true,2014-01-22,2014-02-26,2014-02-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IB,False,G2E99628474:8,true,2017-10-20,,2017-05-06,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVB,,G258FD2GEB7B:,true,2020-08-27,2020-08-31,2020-08-24,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4G4D:D9D8152,true,2024-02-01,2024-03-03,2024-01-18,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G557E997E81G5,true,2021-11-10,2021-12-03,2021-11-26,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G58E8F29:9:45,true,,,2012-02-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3G51E516C136,true,2017-09-17,2017-10-02,2017-09-21,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-09-12,Stage IA,False,G153E9C8E26D4,true,,,2023-08-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G39C1C9BC249D,true,2016-07-23,2016-07-09,2016-08-16,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G17171D313CCE,true,2017-08-21,2020-02-17,2017-09-02,true,true,History of smoking,false,NSCLC histology NOS
+,Group stage is not reported,False,G31E4D24E92BF,true,,,2025-01-05,false,false,History of smoking,false,Squamous cell carcinoma
+2017-03-05,Stage IA,False,G3487E:C:CDC6,true,,,2017-02-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G137D67:GFD9F,true,2015-11-08,2015-10-31,2015-10-25,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G18G1G58:1447,true,2017-05-28,2019-01-13,2017-06-26,true,true,History of smoking,false,Squamous cell carcinoma
+2012-11-04,Stage IB,False,G33E77:6CF7F3,true,2016-07-12,2017-08-13,2012-08-19,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G1F4G973F319F,true,2012-03-05,2012-12-01,2012-01-19,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G28C2E559BC5C,true,2012-03-02,,2012-03-19,false,true,History of smoking,false,Non-squamous cell carcinoma
+2021-06-08,Stage IIIA,False,G1E16D::267DF,true,,,2021-05-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1B913698546B,true,2017-04-24,2017-05-03,2017-03-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-07-09,Stage IA,False,G12EFB99:G33G,true,,,2022-05-22,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2777F3E771D8,true,2018-09-01,2018-09-04,2018-09-25,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G18C1EG39143B,true,2012-06-18,2012-06-26,2012-06-19,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G145BDC382996,true,,,2023-09-30,false,false,History of smoking,false,NSCLC histology NOS
+,Stage IA,False,G417ECBG7G62E,true,2018-10-12,,2015-11-14,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G13FD6GC:127B,true,,,2017-10-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1EEBCF2E91G2,true,2012-03-15,2012-03-22,2012-03-30,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14D44F4B44F2,true,2012-05-25,2012-05-10,2012-05-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G2:B72E3:5CD9,true,2015-12-24,2015-12-14,2015-01-22,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4B1F584CB682,true,2012-12-05,2012-11-24,2012-12-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIA,False,G4CF4FFFDGB63,true,,,2022-09-30,false,false,History of smoking,false,Squamous cell carcinoma
+2018-01-26,Stage IA,False,G5:G33C7GG1FG,true,,,2017-10-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G3B1F6B561ED5,true,2018-12-11,2018-12-17,2018-12-24,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-11-05,Stage IIB,False,G12F2F77BF3BF,true,,,2012-11-09,false,false,History of smoking,true,Squamous cell carcinoma
+,Group stage is not reported,False,G1:569:3C2F:7,true,,,2016-11-01,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4C7:4GCD96C:,true,2015-02-19,2015-03-03,2015-03-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1665E:E6:E1:,true,2013-01-17,2013-03-10,2013-02-01,true,true,History of smoking,,Squamous cell carcinoma
+2019-04-15,Stage IIA,False,G4G:FF3B18594,true,2020-02-22,2020-02-17,2019-01-05,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G182G:E:F7G6B,true,2024-11-19,,2024-12-20,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2:7:G514663C,true,2018-01-22,2018-02-20,2018-02-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G57B2CC53EEB2,true,,,2022-02-01,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G26554BCFC4F9,true,2023-07-27,2023-08-21,2023-09-06,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-07-27,Stage IIB,False,G12184C2C1CC4,true,,,2023-07-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G16FDD4G7249G,true,2022-09-14,,2022-09-04,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IB,False,G1BB2C23:5573,true,2019-01-10,2019-09-10,2017-11-16,true,true,History of smoking,false,Squamous cell carcinoma
+2017-07-29,Stage IIIB,False,G244773::F9D1,true,2017-06-02,,2017-05-22,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1:63G7DB19DE,true,2014-09-05,2014-08-27,2014-07-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G1D75:47CG6C7,true,2022-09-28,2022-10-07,2022-09-13,true,true,No history of smoking,,Non-squamous cell carcinoma
+2024-02-12,Stage IB,False,G17:11B59777:,true,,,2024-03-04,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G1B278956E5G4,true,2024-06-11,,2024-06-05,false,true,No history of smoking,false,Non-squamous cell carcinoma
+2019-03-24,Stage IA,False,G19D:32F3467E,true,2024-07-13,,2018-12-11,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIA,False,G36CD19:738D6,true,,,2021-06-30,false,false,History of smoking,false,Squamous cell carcinoma
+2017-03-23,Stage IIIA,False,G3D464G6FEBDC,true,2017-04-05,2017-04-12,2016-09-03,true,true,History of smoking,true,Non-squamous cell carcinoma
+2016-07-29,Stage IA,False,G17EF3CC22BG1,true,,,2016-09-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G23DBBC56D66C,true,2017-09-10,2017-08-26,2017-07-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G163D9B593927,true,2016-05-12,2017-06-01,2014-09-16,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G1G3399F19C56,true,,,2016-08-25,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G49E8CFG53::D,true,2011-02-14,2012-10-08,2011-03-10,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G1GDCB:FF9G:1,true,2015-05-18,2015-12-30,2015-04-27,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G1B8G131F6FC6,true,2019-08-12,,2016-05-08,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G547F143D3DEG,true,2024-09-14,2024-08-09,2024-08-09,true,true,No history of smoking,,Non-squamous cell carcinoma
+2022-04-20,Stage IA,False,G516931:96589,true,,,2022-02-18,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IVA,,G19:83254DDF6,true,2018-12-26,2018-12-09,2018-12-01,true,true,No history of smoking,,Non-squamous cell carcinoma
+2017-02-22,Stage IB,False,G2141D8BCD7CD,true,,,2017-01-19,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G15F6:966BBB3,true,2016-04-03,,2016-03-26,false,true,History of smoking,false,Non-squamous cell carcinoma
+2023-04-27,Stage IA,False,G5336CG456G5G,true,,,2023-03-14,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage I,False,G17DB15D8C7CG,true,2024-08-12,2024-08-14,2024-09-24,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1B:4118B:372,true,2022-08-03,2022-06-29,2022-08-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage I,False,G18GBD163BD:2,true,,,2011-11-22,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4G:96542E2BG,true,2018-02-03,2018-01-10,2018-01-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G325B2E578F89,true,2015-09-12,2015-08-10,2014-04-06,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G16G877GB:3DD,true,,,2021-04-03,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G478G1D7C64C4,true,2016-06-10,2016-05-27,2016-06-27,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-09-06,Stage II,False,G462G467E1BF1,true,2018-09-11,2018-09-13,2016-09-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G15F86:BG28CB,true,2012-05-19,2012-05-26,2012-06-20,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G175D38G17E84,true,2015-11-11,2015-11-26,2015-11-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G37973D8B1C9F,true,,,2018-11-24,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIB,False,G13F669ED2119,true,,,2012-02-13,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G4826CB54C27:,true,2019-11-25,,2019-11-25,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G247B:5828E59,true,,,2019-11-19,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G244767:D6C2E,true,2019-05-15,,2017-06-30,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1BBCG87E12DG,true,2015-03-22,2015-03-22,2015-02-15,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G35827G6GD2E5,true,2015-10-31,2015-12-12,2015-11-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G39F5FGEFFD67,true,2017-10-14,,2017-08-21,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G52FEFD8:E24C,true,2021-09-01,2021-08-21,2021-08-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G3::1F4G:66GE,true,2022-07-27,2022-07-27,2022-07-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G439D41E1E1FB,true,2021-05-23,,2021-06-28,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IB,False,G164G31958638,true,2023-03-07,2023-02-28,2022-09-29,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G167G71733G69,true,2015-06-19,2015-06-17,2015-07-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G36:G2D34DE93,true,2019-10-07,2019-10-10,2018-11-15,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G166FBC749F7D,true,2013-03-19,2013-02-27,2013-03-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G24GEG2:6C23D,true,,,2019-09-10,false,false,History of smoking,false,Squamous cell carcinoma
+2022-03-14,Stage IA,False,G3B9DBG4F4G94,true,2023-04-15,2024-06-12,2022-01-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G327B2G171G96,true,2019-10-02,,2019-10-01,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G3G18F3E9E3C8,true,2024-01-29,2024-01-18,2023-09-22,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G529G2C3FCBC7,true,2015-07-26,2015-08-13,2015-08-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G23E45CE13341,true,,,2011-07-12,false,false,Unknown/Not documented,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G1B:EDB855:88,true,2015-09-03,,2015-08-30,false,true,History of smoking,false,NSCLC histology NOS
+,Stage IB,False,G2G9:BE:3D8C1,true,,,2020-10-26,false,false,History of smoking,false,Squamous cell carcinoma
+2017-02-16,Stage IA,False,G4992B5EB431G,true,,,2017-02-27,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IVA,,G3:F3B2CEG21C,true,2021-06-30,2021-07-18,2021-08-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIC,False,G4FB7F:6C426G,true,2020-04-20,,2020-05-08,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G224DD757657B,true,,,2023-08-15,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G56F2:8814GF8,true,,,2014-06-04,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G3C99CBDB5D54,true,2012-12-21,2013-02-02,2012-12-24,true,true,No history of smoking,,Non-squamous cell carcinoma
+2017-01-27,Stage IA,False,G276F22C54322,true,2020-06-01,2020-07-09,2016-11-10,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G17G71B51EFE2,true,2024-01-30,2024-02-06,2024-03-21,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIC,False,G2EGB9C5FC63C,true,2022-04-07,,2022-05-06,false,true,History of smoking,,Squamous cell carcinoma
+2016-01-17,Stage IA,False,G59G454E1B6B3,true,,,2016-02-11,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IB,False,G3366CGDC::8C,true,,,2017-06-27,false,false,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G3D891287D6B:,true,2020-06-04,2020-05-07,2020-05-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3C826F5CD726,true,2014-01-24,2013-12-27,2014-01-11,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G153G5833D6D1,true,,,2018-12-13,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G191848GCEE37,true,2014-07-13,2014-07-20,2014-07-17,true,true,Unknown/Not documented,,Non-squamous cell carcinoma
+,Stage I,False,G1C3C77C32116,true,,,2019-05-13,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G23:3:B689E33,true,2015-09-21,,2015-08-29,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVB,,G161:GEG632G8,true,2018-12-07,2018-12-24,2018-12-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G14FD45889171,true,2014-10-02,2014-10-21,2014-03-01,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G1:C59D3F54:2,true,2021-01-17,2020-12-25,2020-12-09,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G23FCEE47:5DE,true,,,2013-07-18,false,false,Unknown/Not documented,false,Squamous cell carcinoma
+2025-03-14,Stage IIB,False,G1G7:7E:2641G,true,,,2025-01-25,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G51CG28FB981G,true,,,2024-04-01,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G191DF9724793,true,2022-12-28,2022-12-02,2022-12-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-03-29,Stage IA,False,G4D:7311GBGDB,true,,,2015-01-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+2014-04-08,Stage IA,False,G16GE86G42194,true,2015-02-03,2015-02-23,2014-03-13,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G58FCD4G:G6DF,true,2018-02-02,,2017-05-13,false,true,History of smoking,false,Squamous cell carcinoma
+2015-03-31,Stage IIIA,False,G42734BB63:32,true,2016-05-16,2016-05-11,2015-03-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+2013-07-24,Stage IIB,False,G11D1:8:62429,true,2014-12-11,2014-11-27,2013-08-15,true,true,History of smoking,true,Squamous cell carcinoma
+2020-12-11,Stage IA,False,G249174EB17G:,true,2022-12-17,2022-12-04,2020-11-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+2015-12-15,Stage IA,False,G39931BE8EB17,true,,,2015-10-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G34:7B13D9C5F,true,2014-10-23,2014-11-13,2014-10-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G172GFE717:24,true,2019-10-31,2019-10-27,2019-10-18,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G2E14:97G:FFD,true,,,2019-01-25,false,false,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G214C6EC1517:,true,,,2024-06-10,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G4725296E3CE4,true,2021-07-26,2021-06-28,2021-07-23,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G4G2614665E34,true,2019-09-25,2019-09-26,2018-09-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage I,False,G2B9857B586FC,true,,,2021-09-01,false,false,History of smoking,false,NSCLC histology NOS
+,Stage IVA,,G563BBB4G:855,true,2023-01-24,2023-01-16,2023-03-05,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-06-11,Stage IA,False,G36E89F26D3:6,true,2020-12-15,,2016-06-16,false,true,History of smoking,true,Non-squamous cell carcinoma
+2021-11-27,Stage IB,False,G253322FB7:C9,true,,,2022-01-18,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G35B67EF28CF4,true,2014-02-06,2014-02-06,2014-03-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G226G4F43C6FE,true,2016-01-23,2016-10-25,2016-03-03,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1:B5G1F36C93,true,,,2022-09-08,false,false,Unknown/Not documented,false,NSCLC histology NOS
+2013-01-16,Stage IA,False,G27:9D5296F8G,true,,,2013-01-17,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G47DG9518GG1E,true,2024-07-04,2024-07-23,2024-06-05,true,true,History of smoking,false,Non-squamous cell carcinoma
+2014-02-05,Stage IIIA,False,G19E:848FD3G5,true,2019-06-26,2019-08-18,2014-02-23,true,true,History of smoking,true,Non-squamous cell carcinoma
+2024-12-06,Stage IIIA,True,G22CF9C794236,true,,,2024-06-28,false,false,History of smoking,true,Squamous cell carcinoma
+2020-05-11,Stage IA,False,G35G9C:92:6G7,true,,,2020-01-29,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2:5874817G9C,true,2024-01-02,2024-01-14,2024-01-27,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G129:BF885666,true,2022-03-03,2022-03-20,2022-02-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G591:2784957C,true,2013-10-27,2013-10-08,2013-09-16,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-04-26,Stage III,False,G33G487624E32,true,,,2022-03-19,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G3D1FC341FBF7,true,,,2017-10-27,false,false,History of smoking,false,Squamous cell carcinoma
+2017-03-12,Stage IIA,False,G4485G77FD:7:,true,2018-11-29,2018-11-11,2017-02-26,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G3BBG95F1669C,true,2021-08-14,2021-09-17,2021-08-12,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIA,False,G3:7EE36524G3,true,,,2022-08-07,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G27:CG:8776BE,true,2020-03-30,2020-03-18,2020-04-10,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-09-02,Stage IA,False,G11:3GF134CB5,true,,,2024-07-25,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3867F7D51E3D,true,2024-08-03,2024-07-16,2024-07-20,true,true,History of smoking,,Squamous cell carcinoma
+2020-01-29,Stage II,False,G31G19E54FC:B,true,,,2020-02-07,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G4D2G1D2:G:5D,true,2019-01-09,,2019-01-21,false,true,No history of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1F26CECEF:89,true,2018-05-01,2018-05-16,2018-04-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G1C633337DF67,true,,,2024-07-02,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G19D38B88F559,true,2020-02-04,2020-03-02,2020-02-09,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1D1CGE4FE263,true,2014-08-09,2014-07-12,2014-08-13,true,true,History of smoking,,NSCLC histology NOS
+2019-06-12,Stage IA,False,G44BCC37729F3,true,,,2019-05-31,false,false,History of smoking,true,Non-squamous cell carcinoma
+2016-07-29,Stage IIIA,False,G4C65C839C5CC,true,2016-08-29,,2016-07-16,false,true,History of smoking,true,Non-squamous cell carcinoma
+2024-02-02,Stage IB,False,G4983E25:51G9,true,,,2023-11-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G17816EGGD:2:,true,,,2018-04-23,false,false,History of smoking,false,Squamous cell carcinoma
+2013-02-04,Group stage is not reported,False,G4E7994141DBB,true,2015-02-08,,2012-12-31,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1G75:D51G1E5,true,2020-03-08,2020-03-23,2020-03-28,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-11-05,Stage IB,False,G485C85BECGC4,true,,,2021-07-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3BF24183B75E,true,2019-12-20,2019-12-29,2019-12-25,true,true,History of smoking,,Non-squamous cell carcinoma
+2014-08-20,Stage IA,False,G1:9FCE6E6G6C,true,,,2014-07-08,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G28G5D2B769B5,true,2014-08-22,2014-08-10,2013-03-06,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G4BC1B:E45B69,true,,,2015-10-11,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G418122DE9466,true,2015-01-09,,2013-02-21,false,true,History of smoking,false,Non-squamous cell carcinoma
+2019-09-14,Stage IA,False,G49B2:8CD655D,true,,,2019-09-17,false,false,History of smoking,true,Squamous cell carcinoma
+,Group stage is not reported,False,G257C8G2BCF7:,true,,,2023-03-17,false,false,Unknown/Not documented,false,Squamous cell carcinoma
+,Stage IV,,G23GGE54BGGDF,true,2020-07-30,2020-07-01,2020-07-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G29C71B44G:B6,true,2013-05-10,2013-06-21,2013-06-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4G3G:984BG53,true,2016-01-08,2016-01-15,2015-12-25,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G157:6724::CC,true,,,2025-02-21,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G43B71GBF7681,true,,,2024-10-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1594:E29D2D9,true,2020-08-08,2020-09-26,2020-09-07,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G559EGF3BF82E,true,2024-11-20,2024-11-04,2024-11-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G597G:6GC6669,true,2012-03-20,2012-03-27,2012-02-19,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1468E9F5C9CG,true,2011-05-07,2011-04-28,2011-04-26,true,true,History of smoking,,NSCLC histology NOS
+2016-09-07,Stage IIIA,False,G1658GGG424E:,true,2017-10-23,2017-11-18,2016-07-22,true,true,History of smoking,true,Non-squamous cell carcinoma
+2012-04-15,Stage IA,False,G113F6484E959,true,,,2012-05-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1E35BD845958,true,2014-08-04,2014-07-12,2014-07-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-08-23,Stage IA,False,G3:C::3:6GB9B,true,,,2021-09-14,false,false,History of smoking,true,Non-squamous cell carcinoma
+2017-04-29,Stage IA,False,G3E12EBD52F4D,true,2018-01-24,2018-02-01,2017-04-09,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G324DD277533C,true,2019-04-30,2019-05-06,2019-06-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-01-31,Stage IIA,False,G4CBBGF4CB27D,true,,,2016-01-03,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIB,False,G2B71GB3997CF,true,2023-08-03,,2023-04-12,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIB,False,G3:G1:CC15DG9,true,,,2023-09-13,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage III,False,G1:3BC3:FEF23,true,,,2022-12-03,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G48:1B8F9G:B5,true,2014-02-04,2014-02-07,2014-02-22,true,true,History of smoking,,Non-squamous cell carcinoma
+2018-08-23,Stage IIB,False,G1F5415D1B672,true,,,2018-09-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G225D5E995642,true,2021-12-29,,2022-01-10,false,true,History of smoking,false,NSCLC histology NOS
+2025-02-27,Stage IIB,False,G1FE4F243:1FG,true,,,2024-12-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G283EB4BF8E72,true,2011-11-16,2011-11-07,2011-12-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G4EF93:EF39:7,true,,,2019-11-17,false,false,History of smoking,false,Squamous cell carcinoma
+2018-10-09,Stage IIB,False,G27FB829BD:C7,true,,,2018-06-05,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G278ED563CF9F,true,2022-10-16,2022-09-02,2022-08-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIC,False,G1E7D2D8C57F8,true,2018-05-12,,2018-05-25,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IA,False,G211B9B8E3:3E,true,2024-02-04,2024-01-06,2020-04-06,true,true,No history of smoking,false,Non-squamous cell carcinoma
+2017-11-08,Stage IA,False,G111DG5F3F9E5,true,,,2017-10-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G1F7B4C2F:FF2,true,,,2014-04-02,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G3:638:2C17ED,true,2016-08-06,2016-07-27,2016-07-12,true,true,History of smoking,,NSCLC histology NOS
+2021-03-12,Stage IA,False,G1FEC:4BDF311,true,,,2021-04-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G251214GDF65B,true,,,2015-01-28,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G25G217811C66,true,,,2020-03-15,false,false,History of smoking,false,Squamous cell carcinoma
+2024-07-15,Stage IA,False,G55:1FC2629C5,true,,,2024-06-08,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G14GFF41D::2B,true,2012-07-14,2012-06-02,2012-06-19,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-03-16,Stage IIIA,True,G2G4EF:188C:1,true,,,2018-12-12,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G119G18FB68CD,true,2022-12-08,2022-12-13,2022-11-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G449G4:18569:,true,,,2023-05-26,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G21953622CB66,true,2018-12-11,2018-12-31,2018-12-09,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G126FD37CD5C9,true,2023-12-06,2023-12-05,2023-10-16,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-02-11,Stage IB,False,G24:75F1:6CB3,true,,,2015-01-30,false,false,History of smoking,true,Squamous cell carcinoma
+2012-02-08,Stage IA,False,G197EF388:C98,true,,,2012-01-12,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G4ED3922EEE48,true,2019-03-15,2019-01-27,2016-04-20,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G298FGDFDG8E7,true,2019-08-22,2019-08-16,2019-07-21,true,true,History of smoking,,NSCLC histology NOS
+2011-06-16,Stage IB,False,G38195715DC96,true,,,2011-05-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-12-14,Stage IB,False,G353EE82411C:,true,2021-10-29,2021-09-29,2019-11-22,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G16DE246787:5,true,,,2023-02-12,false,false,History of smoking,false,Squamous cell carcinoma
+2012-03-18,Stage I,False,G5989:1645677,true,2013-04-22,,2012-03-25,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G12E3G252G92G,true,2013-11-16,2013-10-19,2013-10-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G38G2BBE55G71,true,2018-03-10,2018-03-20,2018-04-12,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G433B43E81BG1,true,2012-03-25,2012-03-22,2012-02-16,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-08-30,Stage IA,False,G1C9:383F7448,true,2024-01-03,,2022-07-20,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G22:2G6GDG986,true,2013-12-05,2014-11-19,2013-11-17,true,true,History of smoking,false,Squamous cell carcinoma
+2015-11-12,Stage IIIA,False,G171879EG:3B:,true,,,2015-12-10,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G15C:FDBFE1ED,true,2019-09-30,2019-11-06,2019-10-27,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1D7:C647116D,true,,,2023-10-03,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G19F845D:6D24,true,2022-06-30,2022-07-18,2022-07-08,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1B7793:6:9E1,true,2013-12-26,2013-12-15,2013-11-24,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G25DBC39E2CGD,true,2012-12-22,2013-01-03,2013-01-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1CGCC1C6CF35,true,2012-12-09,2012-12-08,2012-11-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G5::D4E74F959,true,2013-05-03,2013-04-22,2013-03-27,true,true,History of smoking,,NSCLC histology NOS
+,Stage IVA,,G4936::B67G17,true,2018-07-12,2018-07-03,2018-05-30,true,true,No history of smoking,,Non-squamous cell carcinoma
+2014-05-04,Stage IIIA,False,G27695ED83439,true,2014-05-18,2014-05-07,2014-04-23,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G221C:3FD2EGB,true,2014-10-27,2014-10-16,2014-10-25,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-08-31,Stage I,False,G369D5G3B91:2,true,,,2021-10-06,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G1FBG4D6C2C9G,true,,,2018-05-25,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G272F2D3BB8C2,true,2013-04-19,2013-05-03,2013-04-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G23B145271:EG,true,2024-11-15,2024-11-24,2024-12-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1DD111EC2E4G,true,2021-02-11,2021-02-27,2021-02-24,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IB,False,G232287:66E27,true,,,2024-10-05,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIA,False,G11G9E2F6D7GD,true,2022-12-19,2023-04-17,2021-11-03,true,true,History of smoking,false,Squamous cell carcinoma
+2023-04-09,Stage IIIA,False,G138G5E13CC3:,true,,,2022-08-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G289EF3CF:D91,true,2017-04-21,2017-05-03,2017-05-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G135BB2F5GCDF,true,2017-12-06,2017-12-02,2018-01-15,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1195EGCD:B45,true,2024-03-08,2024-03-14,2024-03-09,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1GGBC7D433B2,true,2012-01-17,2012-01-25,2012-01-23,true,true,No history of smoking,,Non-squamous cell carcinoma
+2021-10-27,Stage IA,False,G3D73:82998G2,true,,,2021-10-14,false,false,History of smoking,true,Non-squamous cell carcinoma
+2016-12-13,Stage IA,False,G1GECG2D6BB54,true,2024-12-01,,2016-10-26,false,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G125G4C71EEB6,true,2017-11-25,2017-12-06,2017-11-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1239891F631D,true,2020-03-21,2020-03-19,2020-03-24,true,true,History of smoking,,Squamous cell carcinoma
+2023-09-20,Stage IA,False,G2GDF48F:5EGB,true,,,2023-07-26,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIC,False,G127F7CE9C111,true,2024-12-25,,2024-12-26,false,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G28BE11563666,true,2013-08-11,2013-09-22,2013-08-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4GC9BGC4D65B,true,2013-02-25,2013-03-02,2013-02-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G24167D1DD5FG,true,2024-08-23,,2022-10-27,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3B2G711:7F8:,true,2015-03-21,2015-01-29,2015-03-21,true,true,History of smoking,,NSCLC histology NOS
+,Stage III,False,G26F5C48G8168,true,2023-10-22,2023-10-25,2018-11-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+2014-03-24,Stage IA,False,G3DB42DD29B5G,true,,,2014-02-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G162D14E:3B57,true,2025-02-19,,2022-10-12,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G53BC434E6BF:,true,2023-11-23,2023-12-11,2023-12-08,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-07-06,Stage IA,False,G2D:E5215D:C9,true,2022-05-08,2022-06-12,2021-04-18,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1:B8CFFD1931,true,2014-03-04,2014-03-11,2014-04-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3167BFB9D4D5,true,2024-10-06,2024-11-25,2024-10-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage I,False,G3718C522227C,true,,,2016-06-24,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G15F23G97C522,true,2023-07-20,2023-07-08,2023-05-30,true,true,History of smoking,,Non-squamous cell carcinoma
+2018-05-05,Stage IIIA,False,G3642135:5B4C,true,2020-10-08,2020-10-21,2018-06-21,true,true,History of smoking,true,Non-squamous cell carcinoma
+2022-01-15,Stage IA,False,G149:2859E194,true,,,2021-10-21,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G11F85:F1CG29,true,2021-07-11,2021-06-23,2020-04-07,true,true,History of smoking,false,Non-squamous cell carcinoma
+2012-02-02,Stage IA,False,G1:211465CBG8,true,,,2012-02-10,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IB,False,G57:2GEC9DD36,true,2015-11-14,,2014-12-07,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G14F3GC2D5E43,true,2017-10-25,2017-10-22,2017-11-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2018-10-29,Stage IA,False,G51:G:C712CC6,true,2019-11-22,2019-10-27,2018-10-04,true,true,No history of smoking,true,Non-squamous cell carcinoma
+2014-02-17,Stage IIIA,False,G3C:F1C:2BF6C,true,2014-07-31,2014-08-22,2014-02-13,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G131892E39563,true,2017-01-15,2017-01-16,2017-01-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G14361:3FBBE:,true,,,2018-03-17,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G33:335715B9G,true,2024-10-31,,2024-10-26,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G18:439734B::,true,2014-12-31,2015-02-01,2015-01-14,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G14216G12B:E7,true,2019-06-06,2020-04-08,2019-06-18,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G2C521EB94C:2,true,2021-01-04,2020-12-11,2018-07-24,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G3GB7EGGB7:9D,true,2020-02-12,2020-01-31,2020-01-17,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G1G54G4GB8B24,true,2020-11-12,2020-10-30,2020-11-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G58C6E1DD1D13,true,2022-09-05,2022-09-03,2022-09-23,true,true,History of smoking,,Non-squamous cell carcinoma
+2014-12-26,Stage IIIA,False,G266C31886:66,true,,,2015-01-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G25:D5732783D,true,2024-04-21,2024-04-15,2024-04-14,true,true,History of smoking,,Non-squamous cell carcinoma
+2014-12-15,Stage IB,False,G39GG4:58:4C4,true,,,2015-01-01,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3D7ED2233C43,true,2021-06-13,2021-05-28,2021-06-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G1366655F1B29,true,2018-11-15,,2018-03-08,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G41889BDE1435,true,,,2023-05-28,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G4F:7C5268:G1,true,2025-02-13,,2025-04-03,false,true,History of smoking,false,Squamous cell carcinoma
+2016-01-24,Stage IB,False,G15C9CDFE7236,true,2016-11-23,2016-12-13,2015-12-14,true,true,History of smoking,true,Non-squamous cell carcinoma
+2014-05-27,Stage IB,False,G39:7E4197D95,true,,,2014-01-22,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G1G:EECBFBEGD,true,2022-03-23,2022-04-24,2022-04-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1FD6C9677C56,true,,,2017-10-06,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G27GBEFEGED73,true,,,2013-06-01,false,false,Unknown/Not documented,false,Non-squamous cell carcinoma
+2018-09-02,Stage IA,False,G37B87B:G83:2,true,,,2018-09-12,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G57C:95536D73,true,,,2020-09-28,false,false,History of smoking,false,Non-squamous cell carcinoma
+2023-02-28,Stage IIIA,False,G1GFD92F489E7,true,2023-07-17,2023-08-08,2022-10-31,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIA,False,G19D32D1B89D8,true,,,2017-02-19,false,false,History of smoking,false,Non-squamous cell carcinoma
+2011-06-16,Stage IIB,False,G35891B74547E,true,,,2011-06-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G11F4C7:8:ED7,true,2019-07-17,2019-08-04,2019-08-07,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G24F68:FC41G2,true,2021-10-31,2021-11-03,2021-11-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G17BG4264193F,true,2019-12-25,2019-12-07,2020-01-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G164179E8FB7E,true,,,2014-02-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVB,,G3B71E77G787F,true,2020-05-03,2020-06-15,2020-04-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G15DB9C8G4:C5,true,2024-06-29,2024-06-17,2024-07-19,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G243C3G2697F5,true,2015-05-11,2015-05-08,2015-06-11,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-11-18,Stage IA,False,G219:GB5FEE3D,true,,,2022-10-14,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G2F23BB58DF:9,true,2015-10-20,,2015-01-06,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G129:222B53D:,true,2021-09-18,2021-10-05,2021-09-10,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G12D5DB79FEED,true,2014-03-25,2014-02-17,2014-03-22,true,true,History of smoking,,Non-squamous cell carcinoma
+2011-06-08,Stage IIIA,False,G579E53D92:75,true,,,2011-05-03,false,false,History of smoking,true,Squamous cell carcinoma
+2017-05-01,Stage IIB,False,G5155B2C7G7DB,true,2019-07-06,2019-07-13,2017-05-20,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1E25685BBFC:,true,2013-12-03,2013-12-22,2013-12-31,true,true,History of smoking,,NSCLC histology NOS
+,Stage IIIB,False,G1G78CEE:7E:3,true,2017-08-27,2018-04-25,2017-08-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+2019-06-06,Stage IIIA,False,G392GC5134FFG,true,2020-03-08,,2019-05-24,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2E1F163ECG9B,true,2013-07-07,2013-06-22,2013-06-13,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G153F976GBG:E,true,2011-08-13,2011-08-26,2011-07-03,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G54368FF4E2E3,true,2011-05-15,2011-04-23,2011-03-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G184:2G6G88:G,true,2012-11-29,2012-11-02,2012-11-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2011-09-06,Stage IIIA,False,G4G98:8D426E2,true,2012-01-17,,2011-07-23,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IVA,,G38F772G48B9C,true,2021-08-28,2021-09-02,2021-07-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G499EB:16:7F3,true,2017-05-09,2017-05-24,2017-06-06,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G2457626BC269,true,2024-03-17,2024-04-01,2024-03-19,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-01-22,Stage IB,False,G18E:82B41C21,true,,,2015-03-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1411E9::FGC8,true,2023-06-10,2023-05-19,2023-05-26,true,true,History of smoking,,NSCLC histology NOS
+2019-09-30,Stage IA,False,G31BGD543CF1G,true,2023-01-08,2023-02-08,2019-06-27,true,true,History of smoking,true,Non-squamous cell carcinoma
+2024-01-29,Stage IIB,True,G1G9455D2D9G7,true,2023-10-08,2023-10-20,2023-06-27,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G474E:6F:6:B1,true,,,2013-04-08,false,false,History of smoking,false,Squamous cell carcinoma
+2023-08-05,Stage IA,False,G3FF55FB5D:5D,true,,,2023-07-15,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G19DC3B672B39,true,,,2020-04-14,false,false,History of smoking,false,NSCLC histology NOS
+2015-07-17,Stage III,False,G134249173C:9,true,2015-11-16,2015-11-22,2015-06-27,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G3B:47F525CE2,true,2019-04-21,2019-04-27,2019-03-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G24G49:3G:B1G,true,2022-08-22,2022-07-27,2021-11-08,true,true,No history of smoking,false,NSCLC histology NOS
+,Stage IIIC,False,G326EGB36D167,true,2019-07-18,,2019-08-05,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G1B2DF1F46EDF,true,,,2022-03-24,false,false,History of smoking,false,Squamous cell carcinoma
+2023-03-01,Stage IIIA,False,G1G:2:8D7GC6F,true,,,2023-01-28,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G35DGE621BE1E,true,,,2023-07-11,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G227B79DF:::4,true,,,2022-09-29,false,false,No history of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G1FB452D:5G45,true,2015-04-30,,2015-04-16,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2F5C96E2545B,true,2024-04-07,2024-05-06,2024-04-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G18EC8:CFEB1:,true,2017-04-20,2017-05-23,2017-04-15,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G22D92C11D81G,true,,,2021-05-15,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G25D68:FC192G,true,2020-12-02,2020-10-30,2020-12-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G3EG3F6G2998F,true,,,2018-05-06,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2EBF3CF86FF9,true,2014-05-01,2014-06-07,2014-06-03,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G5817G:99GE51,true,2016-09-21,2016-09-19,2015-06-04,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIA,False,G16D13269DE9G,true,,,2022-07-11,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage III,False,G37:1::68BB95,true,2024-11-16,2024-12-11,2024-11-17,true,true,History of smoking,false,Non-squamous cell carcinoma
+2016-07-03,Stage I,False,G4C4C3G28CF33,true,2017-03-03,2021-11-23,2016-06-06,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G263B3:534B15,true,2014-08-09,2014-09-22,2014-09-18,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1:DCBB2BG56F,true,2022-02-03,2022-02-14,2022-02-15,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G275592:9ED79,true,2018-05-17,2018-05-29,2018-05-01,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-08-25,Stage IIIA,False,G11F2659368B9,true,,,2023-07-30,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G21B7762691EE,true,2017-07-31,,2011-11-29,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IVA,,G19511695D78G,true,2025-02-28,2025-02-06,2025-03-15,true,true,History of smoking,,Non-squamous cell carcinoma
+2018-09-01,Stage IA,False,G33879551:CC4,true,,,2018-08-22,false,false,History of smoking,true,Non-squamous cell carcinoma
+2016-09-07,Stage IA,False,G51D:5CB4GC6B,true,2021-12-31,2021-12-24,2016-10-23,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G242B854DCE96,true,2015-11-11,2015-10-18,2015-11-02,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G337BE1E83:B7,true,2021-09-27,,2021-11-11,false,true,History of smoking,false,Non-squamous cell carcinoma
+2012-07-13,Stage IA,False,G37BDDB1DD7:9,true,,,2012-06-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+2018-08-12,Stage IIB,False,G11C4C54G9D74,true,,,2018-05-16,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIA,False,G3:67CF8FF:28,true,,,2019-09-24,false,false,No history of smoking,false,Non-squamous cell carcinoma
+2023-05-19,Stage I,False,G4F7:B1:463DD,true,,,2023-03-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIB,False,G175D3C95:34G,true,2018-03-20,2019-02-22,2018-04-26,true,true,No history of smoking,false,Non-squamous cell carcinoma
+2024-01-17,Stage IA,False,G1D9147B21C7F,true,,,2023-12-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G24632:D18158,true,2019-01-24,2019-01-07,2019-01-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G43E:81EC19B6,true,2022-08-15,2022-07-15,2022-07-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G289C6438E26:,true,,,2012-11-02,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G41G38G7991D4,true,2024-11-09,2024-11-27,2024-10-25,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G1B:1G86333FB,true,2019-02-09,2019-03-10,2019-02-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage III,False,G57DE72B664E8,true,2012-03-19,2012-03-26,2012-04-19,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G1B4BCEG8F6B7,true,,,2021-05-30,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G484BED:E686:,true,2016-04-20,2016-03-27,2016-04-29,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G28E1765:691E,true,2015-08-20,2015-08-30,2015-09-24,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G131EFCB91:B2,true,2012-08-29,2012-09-04,2012-09-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-01-31,Group stage is not reported,False,G1F167DBC45:8,true,,,2019-12-05,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G54F:4C9FBGF9,true,2014-10-16,2014-09-12,2014-10-12,true,true,History of smoking,,Non-squamous cell carcinoma
+2011-03-18,Stage IIIA,False,G1E1C181843G1,true,2012-12-30,2014-10-08,2011-01-31,true,true,History of smoking,true,Non-squamous cell carcinoma
+2014-02-16,Stage IIB,False,G23BB82DB453D,true,,,2014-03-02,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G25F6:5:2:C36,true,2019-01-14,2018-12-02,2018-11-27,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G14DB679ECE45,true,2018-06-14,2018-06-24,2018-06-26,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G3B26D:2G114C,true,2016-04-18,2016-05-15,2016-05-10,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G4G78ED3FGCF8,true,,,2014-08-10,false,false,History of smoking,false,Non-squamous cell carcinoma
+2023-02-26,Stage IIB,False,G419EE8F1F59D,true,,,2023-01-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G5:3DFC66422C,true,2018-02-25,2018-03-04,2014-06-13,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G17177B5C7D7F,true,2020-11-25,2020-11-10,2020-12-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G41861:27FC37,true,,,2016-09-07,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G459D:92E2344,true,,,2018-03-13,false,false,History of smoking,false,Squamous cell carcinoma
+2021-12-05,Stage IB,False,G33F47B8D8:1E,true,2024-05-17,2024-05-02,2021-09-16,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVB,,G3GDB6369:DC4,true,2019-05-26,2019-05-10,2019-04-27,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1169816459CC,true,2018-07-28,2018-07-15,2018-06-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G56D5:EDD9C68,true,2023-11-28,,2023-11-17,false,true,History of smoking,false,Non-squamous cell carcinoma
+2011-11-13,Stage IB,False,G27C6C5949F1:,true,,,2011-10-25,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1CD:EF:D439E,true,2017-04-11,2017-04-14,2017-04-25,true,true,No history of smoking,,Non-squamous cell carcinoma
+2013-09-10,Stage IIIA,False,G2D3FB2DD2C:1,true,2014-07-18,2014-06-16,2013-09-19,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G34839B6B5255,true,2012-07-01,2012-08-10,2012-07-24,true,true,History of smoking,,Non-squamous cell carcinoma
+2022-09-02,Stage IIA,False,G53EDE5926292,true,2024-06-07,2024-05-23,2022-07-02,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G26B24C7D5G91,true,2019-02-10,2019-03-20,2019-03-05,true,true,No history of smoking,,Squamous cell carcinoma
+,Stage IIIA,False,G2B:D6686421C,true,,,2013-01-16,false,false,History of smoking,false,Non-squamous cell carcinoma
+2016-07-18,Stage IA,False,G1D57:EFGDB73,true,,,2016-06-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G28789B581667,true,2019-09-11,2019-09-08,2019-09-15,true,true,History of smoking,,Non-squamous cell carcinoma
+2023-11-30,Stage IIB,False,G2G419135CEEC,true,,,2022-11-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G48E:D235BFD9,true,2013-11-05,2013-12-10,2013-12-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G264:CC4B7D1:,true,2013-12-08,,2013-04-17,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G1CEB7DB68895,true,2011-09-13,2011-10-11,2011-02-02,true,true,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G18F76F55:583,true,2018-09-04,2018-08-23,2016-02-28,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G19E:EBC916F5,true,2021-10-11,2021-10-22,2021-11-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G4665:2B7:B1D,true,2023-08-19,2023-09-25,2021-03-12,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IVA,,G365D2:FDG53F,true,2023-12-13,2023-12-06,2023-11-18,true,true,History of smoking,,NSCLC histology NOS
+,Stage IV,,G193F52G:DDG7,true,2024-06-01,2024-04-22,2024-05-15,true,true,History of smoking,,NSCLC histology NOS
+2018-02-10,Stage IIIA,False,G3142D1E86841,true,,,2018-01-19,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2G47BC6:2484,true,2024-03-29,2024-02-19,2024-04-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G1G4D4C5D65E7,true,2024-05-19,2024-06-01,2024-06-03,true,true,History of smoking,,Non-squamous cell carcinoma
+2014-02-25,Stage IA,False,G17FC44B51E:3,true,,,2014-03-16,false,false,Unknown/Not documented,true,Non-squamous cell carcinoma
+,Stage IV,,G31357E:68GG2,true,2013-09-06,2013-09-07,2013-10-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage III,False,G3CDE:26DF5C7,true,2013-07-24,2013-06-14,2011-12-11,true,true,History of smoking,false,Squamous cell carcinoma
+2024-06-11,Stage IIIA,False,G1F23G9736:B3,true,,,2024-02-04,false,false,History of smoking,true,Squamous cell carcinoma
+2011-07-03,Stage IA,False,G38BE9BG33195,true,,,2011-05-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIB,False,G147D:E6:68B1,true,,,2024-03-25,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIB,False,G566F852924::,true,,,2025-01-08,false,false,History of smoking,false,Squamous cell carcinoma
+2013-07-25,Stage IIIA,False,G3G5EF86B57G7,true,,,2013-09-13,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage III,False,G38GE:9D51587,true,2011-12-30,2012-02-03,2011-09-04,true,true,History of smoking,false,Non-squamous cell carcinoma
+2019-11-26,Stage IA,False,G1BC7631DF14E,true,,,2019-09-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIC,False,G27D282B7225B,true,2020-12-30,2021-04-02,2020-12-15,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G115873FC55G5,true,2017-09-22,2017-08-23,2017-08-01,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G415ED9:41F64,true,2015-03-17,2017-07-07,2015-03-22,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G56ED6G652873,true,2014-10-27,2014-11-02,2014-09-30,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-01-31,Stage IIIB,False,G17:EF9E52451,true,2021-01-22,,2021-01-11,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIC,False,G11DC:E9G171F,true,2020-03-31,,2020-04-17,false,true,History of smoking,,NSCLC histology NOS
+,Stage IIIB,False,G58E33F7EG254,true,2018-11-14,2019-12-14,2018-12-07,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G24365CF6:6G7,true,,,2013-10-07,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G4125B48EGGFE,true,,,2022-01-16,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G462ED64G978F,true,2014-06-15,2014-06-25,2014-07-19,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIB,False,G36D4G8866897,true,2015-10-24,,2015-05-25,false,true,History of smoking,false,Squamous cell carcinoma
+2019-02-09,Stage IA,False,G1G1G:5::E746,true,,,2018-12-19,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-05-22,Stage IIIA,False,G1B982CB17239,true,,,2019-01-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G4E68514B7GFD,true,2014-09-03,2014-09-30,2014-08-20,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1C256DCCEDGD,true,2014-09-12,2014-09-26,2014-09-08,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G114:2E679C42,true,2024-11-07,2024-10-07,2024-10-27,true,true,History of smoking,,Non-squamous cell carcinoma
+2017-03-28,Stage IIA,False,G2CF99E8E8CF7,true,,,2017-02-24,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage I,False,G14C8DE71G34B,true,,,2017-10-29,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G24G:14D89BD9,true,2012-12-11,2013-01-19,2013-01-02,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G35DB7G1CE73D,true,2015-05-15,2015-06-11,2015-05-16,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G36:39:76994:,true,2022-01-02,2022-01-05,2022-01-25,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G49422G5E1G86,true,2015-03-19,2015-04-25,2015-05-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G25BDCB2768EE,true,,,2021-03-20,false,false,No history of smoking,false,NSCLC histology NOS
+,Stage IA,False,G3F13DFD1C:33,true,2024-08-14,2024-07-29,2023-01-03,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2GF55749G7G9,true,2021-07-04,2021-05-27,2021-07-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G21F55B:167DD,true,,,2017-11-25,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G287777772FGE,true,2021-10-01,,2021-09-13,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G1CB3B346155D,true,2020-12-11,2020-12-28,2020-12-27,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IVA,,G12DD1599F4EF,true,2024-06-28,2024-07-02,2024-06-21,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G33159ECF97CC,true,2018-05-03,2018-05-07,2018-04-27,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G13GE1E25174F,true,2021-03-08,2021-03-08,2021-02-23,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3:C9BECD3F55,true,2019-10-25,2019-11-05,2019-10-24,true,true,No history of smoking,,Non-squamous cell carcinoma
+2017-07-27,Stage IA,False,G1FE2:9777177,true,,,2017-07-12,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2020-01-22,Stage IIB,False,G1G5G38DC3629,true,,,2019-12-01,false,false,History of smoking,true,Squamous cell carcinoma
+2013-04-26,Stage I,False,G2257D67:FG2D,true,,,2013-01-08,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IA,False,G3B:D1G941B1E,true,,,2019-02-17,false,false,History of smoking,false,Squamous cell carcinoma
+2020-01-18,Stage IIIA,False,G2:45FD269663,true,,,2019-11-22,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIB,False,G1B11FE17FE99,true,,,2022-11-28,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G44FBG6277531,true,2013-12-11,2013-12-03,2013-12-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G16B34C4BF7EB,true,,,2014-10-29,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4:72GGEFB4B:,true,2013-07-17,2013-07-10,2013-08-19,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IB,False,G1C757B:8D83B,true,,,2024-11-27,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G26EC77G8EG55,true,2019-05-11,2019-04-04,2019-04-26,true,true,History of smoking,,Non-squamous cell carcinoma
+2019-08-03,Stage IIIB,False,G116:6C4GD4D2,true,2018-12-03,,2018-12-22,false,true,History of smoking,true,NSCLC histology NOS
+2017-06-07,Stage IIIA,False,G3E567F5B3:95,true,2018-04-06,2018-04-03,2017-05-16,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IB,False,G37F6F51C29D3,true,,,2015-06-19,false,false,History of smoking,false,Non-squamous cell carcinoma
+2016-03-13,Stage IB,False,G2FGE39F3CGBB,true,,,2016-03-12,false,false,History of smoking,true,Squamous cell carcinoma
+2018-08-09,Stage IA,False,G3316B72:E:48,true,,,2018-08-02,false,false,No history of smoking,true,Non-squamous cell carcinoma
+2019-06-07,Stage IA,False,G2C:58CF9B648,true,,,2019-05-26,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IA,False,G25BCF:98GG44,true,,,2017-11-25,false,false,History of smoking,false,Squamous cell carcinoma
+2013-08-08,Stage IA,False,G12998681218G,true,2015-08-13,,2013-07-31,false,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IIIA,False,G19B:27:ECB43,true,,,2021-02-21,false,false,No history of smoking,false,Non-squamous cell carcinoma
+2013-07-22,Stage IB,False,G3C36D75C578G,true,,,2013-07-03,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage II,False,G3FG228:11449,true,2013-10-25,2013-10-05,2012-02-22,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIA,False,G5B53:7G9:B14,true,,,2017-04-17,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G134174:3522:,true,2020-12-11,2020-12-23,2020-03-12,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4BFGE1G7646C,true,2019-10-20,2019-10-23,2019-10-16,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G3GB2G2DBGBG3,true,2014-02-17,2014-03-01,2014-04-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G5:9BFG41:736,true,2016-08-05,2016-08-14,2016-07-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G5395BFB17GD:,true,,,2023-07-29,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIA,False,G2ECBFEBBF:86,true,,,2021-06-26,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G12D:797D6324,true,,,2024-03-14,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IA,False,G1B8:241:7G9C,true,,,2019-08-25,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G2745:9D5G3DG,true,2012-03-21,2012-02-09,2012-02-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G57B5F4B556EG,true,2021-05-25,2021-04-13,2021-04-27,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G53C61B2GG71F,true,2015-06-14,2015-04-26,2015-04-30,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G527E27FDFD63,true,,,2024-05-28,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G28:58D343FCF,true,2020-10-20,2020-10-30,2020-12-06,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G4594D752G:B4,true,,,2017-04-02,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G261CF698E543,true,2014-05-14,2014-04-12,2014-04-13,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G11:E1E83E6:D,true,2019-02-09,2019-02-16,2019-04-05,true,true,History of smoking,,Non-squamous cell carcinoma
+2020-06-22,Stage IA,False,G4FCB886B34DC,true,2022-01-10,2022-02-05,2020-06-23,true,true,History of smoking,true,Non-squamous cell carcinoma
+2022-01-29,Group stage is not reported,False,G127FD62EF65E,true,,,2016-03-24,false,false,History of smoking,true,NSCLC histology NOS
+,Stage IV,,G45B53B:15E3F,true,2018-01-04,2017-11-29,2017-12-20,true,true,History of smoking,,Squamous cell carcinoma
+2014-03-21,Stage IB,False,G2:C:3FCGDB64,true,2022-03-25,2022-03-05,2014-02-08,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G317FCB2D35:F,true,2016-03-10,2016-02-29,2016-01-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G51:CGD7GD6C4,true,2018-06-04,2018-06-19,2018-06-11,true,true,No history of smoking,,Non-squamous cell carcinoma
+2015-09-23,Stage IIA,False,G4253CG56F6FC,true,2016-04-30,2016-06-05,2015-08-03,true,true,History of smoking,true,Non-squamous cell carcinoma
+2018-09-29,Stage IIIA,False,G57FE598G618G,true,,,2018-09-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G3E1::7EC84D4,true,2022-05-28,2022-06-09,2022-07-01,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G247F67418GGD,true,2011-04-09,2011-03-15,2011-04-12,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G1934B71378C6,true,2019-12-08,,2019-12-11,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G1D26B928965F,true,2014-12-19,,2015-01-02,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIB,False,G157317FG3387,true,2024-03-30,,2024-03-09,false,true,History of smoking,false,Non-squamous cell carcinoma
+2023-05-25,Stage IA,False,G137F:5CD34CD,true,,,2023-04-30,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IB,False,G23ED3EB7B1B2,true,,,2021-10-07,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G5:1C6DEC2:1:,true,2017-11-08,2017-12-04,2017-11-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G15:19EG3849:,true,2021-07-26,2021-09-12,2021-08-03,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14126G7E7749,true,2018-11-05,2018-11-13,2018-12-02,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIB,False,G1:79593262B6,true,2016-12-13,2017-12-15,2015-07-27,true,true,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G445F26762F72,true,,,2023-07-13,false,false,History of smoking,false,Squamous cell carcinoma
+2024-05-25,Stage IIB,False,G25B:66F61266,true,,,2024-05-07,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G55942BE48C7:,true,2016-01-09,2016-01-24,2015-12-26,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G264B2D11BG13,true,,,2016-09-12,false,false,History of smoking,false,Non-squamous cell carcinoma
+2013-07-02,Stage IA,False,G332GBGFG7416,true,2014-10-17,2014-11-28,2013-06-29,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G222C:17:12DD,true,2019-01-22,2019-02-14,2019-02-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2G76D1E7GG61,true,2014-09-24,2014-09-30,2014-09-04,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G2518G1D763FB,true,,,2024-01-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G4GF3BD6135F4,true,2018-01-24,2018-01-30,2017-12-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G4CFGEG188695,true,2025-02-19,2025-02-13,2025-01-25,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G537:DD1:3E1C,true,,,2023-11-06,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G585656DG8:88,true,2015-05-07,2015-05-29,2015-05-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1D42285:8G7C,true,2015-10-15,2015-09-02,2015-10-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G11D2CD8GCC29,true,2014-07-25,2014-08-04,2014-06-26,true,true,History of smoking,,Squamous cell carcinoma
+2018-03-01,Stage IIIA,False,G3DGG1C5C452:,true,2019-02-18,2019-03-04,2017-10-24,true,true,History of smoking,true,Non-squamous cell carcinoma
+2020-08-09,Stage IIIA,False,G4F5:EB95EFGG,true,2022-03-05,2022-03-10,2020-06-04,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1EG52BB38B29,true,2019-08-09,2019-10-04,2019-08-13,true,true,History of smoking,,Non-squamous cell carcinoma
+2021-10-16,Stage IIIA,False,G54F545489E59,true,2021-10-28,2021-10-30,2021-04-14,true,true,History of smoking,true,Squamous cell carcinoma
+2016-03-09,Stage IA,False,G39183B93EFDG,true,2019-03-01,2019-03-06,2016-03-28,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IB,False,G3B698C119:F8,true,,,2012-03-18,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G1153B156D:49,true,2012-10-08,2012-09-24,2012-09-22,true,true,History of smoking,,NSCLC histology NOS
+,Stage IA,False,G21:3C9BDGE34,true,,,2022-07-14,false,false,History of smoking,false,Squamous cell carcinoma
+2015-12-04,Group stage is not reported,False,G286G2E848134,true,,,2015-12-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-06-24,Stage IIB,False,G4B854337974G,true,,,2019-06-24,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G114FBBG316GG,true,2020-10-17,2020-10-30,2020-11-15,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IA,False,G17F4BFFG434B,true,,,2024-03-19,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G2D:3E7:FB16:,true,2016-02-22,2016-01-20,2015-11-07,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIA,False,G119DBG986C45,true,,,2022-06-23,false,false,History of smoking,false,Squamous cell carcinoma
+2017-12-01,Group stage is not reported,False,G4C489G829FDG,true,2020-02-03,,2017-08-05,false,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G14DC7EEE99BF,true,2015-02-16,2015-02-11,2015-02-17,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G1151G7416919,true,2013-12-21,,2013-11-03,false,true,History of smoking,false,NSCLC histology NOS
+,Group stage is not reported,False,G2218F6F61F72,true,,,2015-04-15,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IA,False,G59EGBEE63B35,true,,,2020-05-29,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIIA,False,G1441B4DG:6FF,true,,,2024-04-17,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IVB,,G252328CFG4E1,true,2022-09-22,2022-08-29,2022-08-29,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G49E3CE9E292G,true,2019-06-30,2019-06-04,2019-06-27,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G11:F93GC6851,true,2014-02-24,2014-03-14,2014-02-26,true,true,History of smoking,,Squamous cell carcinoma
+2021-08-13,Stage IA,False,G41DE1E3BE99:,true,2023-06-13,2023-06-05,2021-07-30,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage III,False,G1G5G15146B3D,true,,,2022-09-02,false,false,History of smoking,false,Squamous cell carcinoma
+2015-10-23,Stage III,False,G44E794G323GG,true,2016-08-12,2016-07-24,2015-10-11,true,true,History of smoking,true,NSCLC histology NOS
+,Stage IA,False,G24E8BG3DE8FB,true,2024-10-26,2024-11-26,2023-04-18,true,true,History of smoking,false,Non-squamous cell carcinoma
+2022-09-02,Stage IIB,False,G172566979:7D,true,,,2022-09-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+2025-03-14,Stage IIB,False,G3:79B47337G4,true,,,2024-10-26,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G5762B778F:95,true,2015-02-01,2015-01-14,2015-01-12,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G393CEF118B21,true,2012-11-11,2012-11-04,2012-10-17,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G25C3661FG6B9,true,2014-07-05,2014-07-18,2014-07-04,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2FF2946:4C6F,true,2017-04-25,2017-05-26,2017-05-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1E589EBD8F93,true,2012-03-23,2012-04-27,2012-03-25,true,true,Unknown/Not documented,,Non-squamous cell carcinoma
+2020-06-12,Stage IA,False,G55E34CE59D:8,true,,,2020-04-16,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Group stage is not reported,False,G17:12G96F2E:,true,,,2016-06-16,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G114C:82GF746,true,2018-01-04,,2016-04-19,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G25C4B:8:3FF2,true,2017-12-24,2017-11-29,2017-11-18,true,true,History of smoking,,Non-squamous cell carcinoma
+2015-10-01,Stage IB,False,G2G776C59C653,true,,,2015-05-03,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2769B21D3BC5,true,2021-12-20,2021-12-25,2021-11-03,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IA,False,G24:9:84DG17:,true,,,2014-08-20,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IIB,False,G2B4648:BGD83,true,,,2024-09-29,false,false,History of smoking,false,Squamous cell carcinoma
+2012-11-02,Stage IB,False,G3C6FGC7D39GE,true,,,2012-10-01,false,false,History of smoking,true,Non-squamous cell carcinoma
+2017-01-13,Stage I,False,G26D2D11EE3B9,true,,,2015-10-10,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G1GC7B8314B6D,true,2020-07-25,2020-07-22,2020-07-20,true,true,No history of smoking,,Non-squamous cell carcinoma
+2011-12-27,Stage IA,False,G4E3BD:44392B,true,,,2012-01-31,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G1:D34FC71922,true,2013-05-27,2013-05-28,2013-06-01,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2216DG74F41B,true,2024-01-28,2024-01-14,2024-01-13,true,true,History of smoking,,Non-squamous cell carcinoma
+2012-12-01,Stage IIA,False,G3DG:2D1DGE8B,true,2013-08-29,2013-10-02,2012-08-30,true,true,History of smoking,true,Non-squamous cell carcinoma
+2024-03-10,Stage IA,False,G243CGE48152E,true,,,2024-03-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+2021-03-06,Stage IA,False,G319D776C24D5,true,,,2020-01-07,false,false,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G25483:FF8C25,true,2021-07-19,2021-08-31,2021-08-28,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIB,False,G132635C:8G4F,true,,,2021-07-16,false,false,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G4C53C5GC48E:,true,2014-11-04,2014-11-01,2014-10-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Group stage is not reported,False,G5177EGEDDF9F,true,2014-09-16,2014-08-07,2013-04-21,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G2EF5C6677DE:,true,2013-03-12,2013-02-01,2013-01-20,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G1::2C155D:6E,true,2021-06-22,2021-07-31,2021-06-13,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G1:C9B9B392:C,true,2015-04-16,2015-02-17,2015-02-23,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G3FG621769317,true,2024-03-05,,2024-02-19,false,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIB,False,G139GD8FE1789,true,,,2016-03-11,false,false,No history of smoking,false,Non-squamous cell carcinoma
+2019-03-24,Stage IB,False,G399445G4FF64,true,,,2019-03-24,false,false,History of smoking,true,Non-squamous cell carcinoma
+2012-01-20,Stage IIA,False,G18F3DB89962D,true,,,2011-11-28,false,false,History of smoking,true,Non-squamous cell carcinoma
+2018-01-07,Stage IIA,False,G1:F129FBCE3F,true,,,2017-12-16,false,false,History of smoking,true,Squamous cell carcinoma
+,Stage IIIB,False,G212D32:BD3B6,true,2021-04-23,,2021-06-12,false,true,History of smoking,false,NSCLC histology NOS
+,Stage IV,,G21F65359GC46,true,2024-06-30,2024-06-08,2024-06-06,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G1968F::311C2,true,2013-07-10,2013-07-16,2013-07-16,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IVA,,G4G88:D789F74,true,2020-08-21,2020-09-07,2020-07-28,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G13ED3F1277G4,true,2017-03-31,2017-03-02,2017-02-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G36BE14CG117:,true,2018-02-06,,2018-01-29,false,true,History of smoking,false,Non-squamous cell carcinoma
+2015-08-01,Stage IIB,False,G16F51999GG5E,true,,,2015-04-22,false,false,History of smoking,true,Squamous cell carcinoma
+2016-03-17,Stage IIIA,False,G257459B7FF:E,true,2017-01-31,2017-12-24,2016-01-30,true,true,No history of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2471D2GFG2E4,true,2016-02-14,2016-03-18,2016-03-24,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G4C:6:784E1GF,true,2016-09-30,2016-08-22,2016-08-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIC,False,G1GFF3C5DDE56,true,2022-09-01,,2022-07-23,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIC,False,G116C37BB:EB1,true,2024-04-26,,2024-05-29,false,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G37G:EBE4EB2D,true,2014-10-04,2014-11-05,2014-11-13,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G14E999899EFC,true,2023-11-22,2023-11-28,2023-12-12,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2G7B3CB6D5C4,true,2013-02-19,2013-02-11,2013-02-03,true,true,No history of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G11341454:35F,true,2017-07-28,,2017-02-25,false,true,History of smoking,false,Squamous cell carcinoma
+,Stage IV,,G18E7528ED97:,true,2011-02-11,2011-02-19,2011-01-31,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G33GBF3E2B73:,true,,,2016-08-08,false,false,History of smoking,false,Squamous cell carcinoma
+,Group stage is not reported,False,G262C81685DF6,true,,,2013-05-20,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IIIB,False,G3D:2:59GC48E,true,2020-03-25,2020-05-23,2020-03-16,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G57EFDC229G9E,true,2013-09-12,2013-08-18,2013-08-01,true,true,History of smoking,,Non-squamous cell carcinoma
+2024-02-19,Stage I,False,G5686:4E435G5,true,2024-12-16,2024-12-06,2023-12-12,true,true,History of smoking,true,Squamous cell carcinoma
+,Stage IV,,G1G:548DD7228,true,2015-02-24,2015-01-07,2015-02-14,true,true,History of smoking,,Squamous cell carcinoma
+,Stage I,False,G2414278F2137,true,,,2015-08-31,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Group stage is not reported,False,G4B8D:E21E499,true,,,2011-12-21,false,false,History of smoking,false,Non-squamous cell carcinoma
+2011-02-27,Stage IA,False,G53C:EEC1BGCG,true,,,2011-03-20,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G31C:9::5EG5D,true,2019-03-14,2019-03-19,2019-02-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIA,False,G21:3143F86E6,true,,,2014-10-16,false,false,History of smoking,false,Squamous cell carcinoma
+2023-04-15,Stage IIIA,False,G53D3D6874EB3,true,,,2023-01-02,false,false,History of smoking,true,Non-squamous cell carcinoma
+2022-12-27,Stage IA,False,G11:4C22D:BD:,true,,,2022-11-02,false,false,History of smoking,true,Non-squamous cell carcinoma
+2014-02-11,Stage IA,False,G1C96C69D1B7B,true,,,2013-11-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G2GBG8DEC7576,true,2018-07-07,2018-07-05,2018-07-24,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G34:CG58F46F9,true,2012-03-07,2012-02-05,2012-03-07,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IV,,G55CDGC1298EB,true,2017-06-27,2017-07-10,2017-07-30,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G3F1C8BD8324B,true,2024-12-22,2024-11-26,2024-11-17,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G2G173G:4FD7E,true,2013-11-02,2013-11-19,2013-11-13,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IIIB,False,G2G38:E36D42B,true,2024-05-24,,2024-06-19,false,true,History of smoking,false,Squamous cell carcinoma
+2024-11-13,Stage IA,False,G5724:G6:4ED5,true,,,2024-11-11,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-12-26,Stage IIIA,False,G535C:E2DDB54,true,,,2019-10-08,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G5:7G3C6E4C81,true,2018-12-05,2018-12-06,2018-10-23,true,true,No history of smoking,,Non-squamous cell carcinoma
+2011-07-10,Stage IA,False,G53C52948773G,true,2023-09-22,2023-09-05,2011-08-05,true,true,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G22C39:D1E249,true,2023-10-18,2023-09-01,2023-09-16,true,true,History of smoking,,Squamous cell carcinoma
+2014-07-23,Stage IIB,False,G1D21B52C3732,true,,,2014-05-09,false,false,History of smoking,true,Non-squamous cell carcinoma
+2019-10-04,Stage IB,False,G2G9F4G91712F,true,,,2019-08-04,false,false,History of smoking,true,Non-squamous cell carcinoma
+2011-05-27,Stage IA,False,G41:2B23G::33,true,,,2011-02-23,false,false,History of smoking,true,Non-squamous cell carcinoma
+2013-12-06,Stage IB,False,G2B852:884223,true,,,2013-10-27,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IV,,G32F58D86GG8D,true,2021-09-06,2021-09-09,2021-09-25,true,true,History of smoking,,Squamous cell carcinoma
+,Stage IA,False,G2D1FD11G941G,true,,,2021-12-24,false,false,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G48::2:98C2EE,true,2024-04-14,2024-05-30,2024-05-05,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G54::B121EGC2,true,2014-11-22,2014-11-24,2014-10-11,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IV,,G4F3:G92:612D,true,2018-05-13,2018-05-08,2018-04-16,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IVB,,G28F9:5:3CC38,true,2024-04-09,2024-03-29,2024-04-27,true,true,History of smoking,,Non-squamous cell carcinoma
+2016-12-05,Stage IIA,False,G44DG16G79EE5,true,,,2016-12-03,false,false,History of smoking,true,Non-squamous cell carcinoma
+2023-09-06,Stage IB,False,G2:737C75FGBF,true,,,2023-09-10,false,false,History of smoking,true,Non-squamous cell carcinoma
+,Stage IVA,,G4FC5:16DD742,true,2020-12-06,2020-11-16,2020-12-22,true,true,History of smoking,,Non-squamous cell carcinoma
+,Stage IIIB,False,G1:64BD9C5919,true,2021-05-19,2024-09-07,2021-05-24,true,true,History of smoking,false,Non-squamous cell carcinoma
+,Stage IV,,G22F:D77B6329,true,2018-01-16,2018-02-13,2018-01-23,true,true,History of smoking,,Squamous cell carcinoma
